@@ -2,12 +2,14 @@ import { useEffect } from 'react'
 import { useLocation } from 'react-router-dom'
 import { fetchMe } from '../store/auth/authThunks'
 import { sessionCheckSkipped } from '../store/auth/authSlice'
-import { useAppDispatch } from '../store/hooks'
+import { selectMe } from '../store/auth/authSelectors'
+import { useAppDispatch, useAppSelector } from '../store/hooks'
 
 /** Загрузка сессии при смене маршрута (как прежний useAuthState). */
 export function AuthSessionSync() {
   const dispatch = useAppDispatch()
   const location = useLocation()
+  const me = useAppSelector(selectMe)
 
   useEffect(() => {
     const onAuthRoute = location.pathname === '/auth' || location.pathname.startsWith('/auth/')
@@ -17,8 +19,11 @@ export function AuthSessionSync() {
       return
     }
 
+    // После login me уже в store — не делаем лишний /me (на GitHub Pages он мог сбрасывать сессию).
+    if (me) return
+
     void dispatch(fetchMe())
-  }, [location.pathname, dispatch])
+  }, [location.pathname, dispatch, me])
 
   return null
 }

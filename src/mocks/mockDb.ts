@@ -33,14 +33,14 @@ export type DemoDb = {
   activity: ActivityLog[]
 }
 
-const LS_KEY = 'isit-invent-demo-db:v2'
+const LS_KEY = 'isit-invent-demo-db:v3'
 
 function seedDb(): DemoDb {
   const users = usersSeed as DemoUser[]
 
   return {
     users,
-    sessionUserId: 1,
+    sessionUserId: null,
     types: typesSeed as EquipmentCategory[],
     models: modelsSeed as EquipmentModel[],
     locations: locationsSeed as Location[],
