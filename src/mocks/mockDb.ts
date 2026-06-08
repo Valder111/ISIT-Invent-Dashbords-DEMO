@@ -33,7 +33,7 @@ export type DemoDb = {
   activity: ActivityLog[]
 }
 
-const LS_KEY = 'isit-invent-demo-db:v1'
+const LS_KEY = 'isit-invent-demo-db:v2'
 
 function seedDb(): DemoDb {
   const users = usersSeed as DemoUser[]

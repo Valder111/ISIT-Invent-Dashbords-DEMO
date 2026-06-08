@@ -4,6 +4,7 @@ import '../../css/auth.css'
 import { getErrorMessage } from '../../shared/api/http'
 import { useAppDispatch } from '../../shared/store/hooks'
 import { login } from '../../shared/store/auth/authThunks'
+import { isDemoBuild } from '../../shared/lib/demoEnv'
 
 export function AuthPage() {
   const navigate = useNavigate()
@@ -35,6 +36,11 @@ export function AuthPage() {
       <section className="auth-card">
         <header className="auth-card__header">
           <h1 className="auth-card__title">Вход</h1>
+          {isDemoBuild() && (
+            <p className="muted auth-card__demo-hint">
+              Демо: <strong>kiselevim@demo.isit-invent.local</strong> / <strong>demo123</strong>
+            </p>
+          )}
         </header>
 
         <form className="auth-card__form" onSubmit={handleSubmit}>

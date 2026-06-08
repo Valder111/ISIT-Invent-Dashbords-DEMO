@@ -1,4 +1,4 @@
-import { http } from 'msw'
+import { http } from '../mswHttp'
 import { fail, ok } from '../httpEnvelope'
 import { deleteObject, getObject, listObjects, presignUrl, putObject } from '../demoStorage'
 import { requireAuth } from './common'

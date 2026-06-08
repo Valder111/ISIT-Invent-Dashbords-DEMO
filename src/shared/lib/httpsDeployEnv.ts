@@ -1,8 +1,9 @@
 /**
  * HTTPS-DEPLOY-LOGIC: временная обвязка под prod (TLS + reverse proxy).
- * В разработке переменные не задают — axios ходит на тот же origin, Vite проксирует /api → localhost:8000.
- * После появления домена: .env.production и server/.env (см. deploy/HTTPS-DEPLOY.md).
+ * В демо-сборке API идёт под BASE_URL (GitHub Pages), чтобы MSW service worker перехватывал запросы.
  */
+
+import { isDemoBuild } from './demoEnv'
 
 function trimTrailingSlash(value: string): string {
   return value.replace(/\/+$/, '')
@@ -10,6 +11,12 @@ function trimTrailingSlash(value: string): string {
 
 /** База API. Пусто = относительные /api/... (один домен за Nginx). */
 export function apiBaseUrl(): string {
+  if (isDemoBuild()) {
+    const base = import.meta.env.BASE_URL
+    if (typeof base === 'string' && base.trim() && base !== '/') {
+      return trimTrailingSlash(base.trim())
+    }
+  }
   const raw = import.meta.env.VITE_API_BASE_URL
   if (typeof raw !== 'string' || !raw.trim()) return ''
   return trimTrailingSlash(raw.trim())

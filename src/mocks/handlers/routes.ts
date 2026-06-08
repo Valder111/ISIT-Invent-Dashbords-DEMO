@@ -1,4 +1,4 @@
-import { http, HttpResponse } from 'msw'
+import { http, HttpResponse } from '../mswHttp'
 import { fail, ok } from '../httpEnvelope'
 import { instanceMatchesStatusFilter } from '../demoService/equipmentStatus'
 import { addTicketItem } from '../demoService/ticketItems'

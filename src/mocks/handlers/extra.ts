@@ -1,4 +1,4 @@
-import { http } from 'msw'
+import { http } from '../mswHttp'
 import { fail, ok } from '../httpEnvelope'
 import { enrichDocument, enrichDocuments, enrichInstance, userPublic } from '../demoService/helpers'
 import { nextId, nowIso, parseNumber, randomQrToken } from '../demoService/utils'

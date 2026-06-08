@@ -1,4 +1,4 @@
-import { http } from 'msw'
+import { http } from '../mswHttp'
 import { ok } from '../httpEnvelope'
 import {
   activityHeatmap,
