@@ -1,0 +1,3602 @@
+[
+  {
+    "comment": "",
+    "created_at": "2024-12-20T07:25:53.363838Z",
+    "id": 1,
+    "instance_id": 100,
+    "model_id": 24,
+    "quantity": 1,
+    "ticket_id": 184,
+    "updated_at": "2024-12-20T07:25:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-19T08:33:53.363838Z",
+    "id": 2,
+    "instance_id": 168,
+    "model_id": 19,
+    "quantity": 1,
+    "ticket_id": 280,
+    "updated_at": "2025-09-19T08:33:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-21T08:04:53.363838Z",
+    "id": 3,
+    "instance_id": 155,
+    "model_id": 49,
+    "quantity": 1,
+    "ticket_id": 95,
+    "updated_at": "2025-04-21T08:04:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-02T02:24:53.363838Z",
+    "id": 4,
+    "instance_id": 240,
+    "model_id": 48,
+    "quantity": 1,
+    "ticket_id": 170,
+    "updated_at": "2025-10-02T02:24:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-03T19:32:53.363838Z",
+    "id": 5,
+    "instance_id": 238,
+    "model_id": 76,
+    "quantity": 1,
+    "ticket_id": 87,
+    "updated_at": "2026-01-03T19:32:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200013",
+    "created_at": "2025-07-19T03:30:53.363838Z",
+    "id": 6,
+    "instance_id": 95,
+    "model_id": 55,
+    "quantity": 1,
+    "ticket_id": 90,
+    "updated_at": "2025-07-19T03:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-18T07:48:53.363838Z",
+    "id": 7,
+    "instance_id": 208,
+    "model_id": 53,
+    "quantity": 1,
+    "ticket_id": 179,
+    "updated_at": "2025-10-18T07:48:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200010",
+    "created_at": "2025-10-15T18:07:53.363838Z",
+    "id": 8,
+    "instance_id": 92,
+    "model_id": 71,
+    "quantity": 1,
+    "ticket_id": 27,
+    "updated_at": "2025-10-15T18:07:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-11T00:47:53.363838Z",
+    "id": 9,
+    "instance_id": 187,
+    "model_id": 41,
+    "quantity": 1,
+    "ticket_id": 56,
+    "updated_at": "2025-11-11T00:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-14T16:30:53.363838Z",
+    "id": 10,
+    "instance_id": 233,
+    "model_id": 26,
+    "quantity": 1,
+    "ticket_id": 53,
+    "updated_at": "2025-10-14T16:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-25T22:29:53.363838Z",
+    "id": 11,
+    "instance_id": 162,
+    "model_id": 75,
+    "quantity": 1,
+    "ticket_id": 193,
+    "updated_at": "2025-01-25T22:29:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200047",
+    "created_at": "2025-07-12T22:18:53.363838Z",
+    "id": 12,
+    "instance_id": 129,
+    "model_id": 56,
+    "quantity": 1,
+    "ticket_id": 142,
+    "updated_at": "2025-07-12T22:18:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-06T18:18:53.363838Z",
+    "id": 13,
+    "instance_id": 194,
+    "model_id": 68,
+    "quantity": 1,
+    "ticket_id": 112,
+    "updated_at": "2025-08-06T18:18:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-11T22:36:53.363838Z",
+    "id": 14,
+    "instance_id": 143,
+    "model_id": 18,
+    "quantity": 1,
+    "ticket_id": 1,
+    "updated_at": "2024-12-11T22:36:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-13T18:05:53.363838Z",
+    "id": 15,
+    "instance_id": 97,
+    "model_id": 56,
+    "quantity": 1,
+    "ticket_id": 279,
+    "updated_at": "2026-04-13T18:05:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-09T16:53:53.363838Z",
+    "id": 16,
+    "instance_id": 243,
+    "model_id": 16,
+    "quantity": 1,
+    "ticket_id": 12,
+    "updated_at": "2025-07-09T16:53:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-14T17:09:53.363838Z",
+    "id": 17,
+    "instance_id": 43,
+    "model_id": 43,
+    "quantity": 1,
+    "ticket_id": 109,
+    "updated_at": "2025-11-14T17:09:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200114",
+    "created_at": "2025-11-04T20:08:53.363838Z",
+    "id": 18,
+    "instance_id": 196,
+    "model_id": 71,
+    "quantity": 1,
+    "ticket_id": 207,
+    "updated_at": "2025-11-04T20:08:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-28T20:16:53.363838Z",
+    "id": 19,
+    "instance_id": 293,
+    "model_id": 70,
+    "quantity": 1,
+    "ticket_id": 103,
+    "updated_at": "2026-02-28T20:16:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-11T00:47:53.363838Z",
+    "id": 20,
+    "instance_id": 290,
+    "model_id": 46,
+    "quantity": 1,
+    "ticket_id": 56,
+    "updated_at": "2025-11-11T00:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-30T10:52:53.363838Z",
+    "id": 21,
+    "instance_id": 361,
+    "model_id": 41,
+    "quantity": 1,
+    "ticket_id": 165,
+    "updated_at": "2025-10-30T10:52:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-04T07:00:53.363838Z",
+    "id": 22,
+    "instance_id": 135,
+    "model_id": 13,
+    "quantity": 1,
+    "ticket_id": 167,
+    "updated_at": "2026-04-04T07:00:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200187",
+    "created_at": "2025-05-31T09:05:53.363838Z",
+    "id": 23,
+    "instance_id": 269,
+    "model_id": 25,
+    "quantity": 1,
+    "ticket_id": 160,
+    "updated_at": "2025-05-31T09:05:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-13T23:50:53.363838Z",
+    "id": 24,
+    "instance_id": 257,
+    "model_id": 61,
+    "quantity": 1,
+    "ticket_id": 211,
+    "updated_at": "2025-09-13T23:50:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200160",
+    "created_at": "2024-12-23T17:57:53.363838Z",
+    "id": 25,
+    "instance_id": 242,
+    "model_id": 76,
+    "quantity": 1,
+    "ticket_id": 210,
+    "updated_at": "2024-12-23T17:57:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-05T12:09:53.363838Z",
+    "id": 26,
+    "instance_id": 297,
+    "model_id": 12,
+    "quantity": 1,
+    "ticket_id": 38,
+    "updated_at": "2025-04-05T12:09:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200295",
+    "created_at": "2025-05-30T13:50:53.363838Z",
+    "id": 27,
+    "instance_id": 377,
+    "model_id": 67,
+    "quantity": 1,
+    "ticket_id": 6,
+    "updated_at": "2025-05-30T13:50:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-12T00:09:53.363838Z",
+    "id": 28,
+    "instance_id": 231,
+    "model_id": 35,
+    "quantity": 1,
+    "ticket_id": 147,
+    "updated_at": "2025-10-12T00:09:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-29T05:27:53.363838Z",
+    "id": 29,
+    "instance_id": 100,
+    "model_id": 24,
+    "quantity": 1,
+    "ticket_id": 189,
+    "updated_at": "2024-12-29T05:27:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200296",
+    "created_at": "2025-10-12T00:09:53.363838Z",
+    "id": 30,
+    "instance_id": 378,
+    "model_id": 67,
+    "quantity": 1,
+    "ticket_id": 147,
+    "updated_at": "2025-10-12T00:09:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-27T00:36:53.363838Z",
+    "id": 31,
+    "instance_id": 59,
+    "model_id": 59,
+    "quantity": 1,
+    "ticket_id": 52,
+    "updated_at": "2025-05-27T00:36:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-30T21:36:53.363838Z",
+    "id": 32,
+    "instance_id": 363,
+    "model_id": 43,
+    "quantity": 1,
+    "ticket_id": 263,
+    "updated_at": "2025-05-30T21:36:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-18T23:12:53.363838Z",
+    "id": 33,
+    "instance_id": 373,
+    "model_id": 15,
+    "quantity": 1,
+    "ticket_id": 192,
+    "updated_at": "2025-10-18T23:12:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-17T06:33:53.363838Z",
+    "id": 34,
+    "instance_id": 39,
+    "model_id": 39,
+    "quantity": 1,
+    "ticket_id": 134,
+    "updated_at": "2026-05-17T06:33:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-21T20:13:53.363838Z",
+    "id": 35,
+    "instance_id": 298,
+    "model_id": 82,
+    "quantity": 1,
+    "ticket_id": 235,
+    "updated_at": "2024-12-21T20:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-31T13:25:53.363838Z",
+    "id": 36,
+    "instance_id": 145,
+    "model_id": 17,
+    "quantity": 1,
+    "ticket_id": 104,
+    "updated_at": "2025-05-31T13:25:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-28T06:35:53.363838Z",
+    "id": 37,
+    "instance_id": 59,
+    "model_id": 59,
+    "quantity": 1,
+    "ticket_id": 42,
+    "updated_at": "2025-07-28T06:35:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-13T04:40:53.363838Z",
+    "id": 38,
+    "instance_id": 255,
+    "model_id": 52,
+    "quantity": 1,
+    "ticket_id": 191,
+    "updated_at": "2025-08-13T04:40:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-16T01:13:53.363838Z",
+    "id": 39,
+    "instance_id": 210,
+    "model_id": 30,
+    "quantity": 1,
+    "ticket_id": 61,
+    "updated_at": "2025-05-16T01:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-06T10:25:53.363838Z",
+    "id": 40,
+    "instance_id": 355,
+    "model_id": 28,
+    "quantity": 1,
+    "ticket_id": 43,
+    "updated_at": "2025-05-06T10:25:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-29T16:17:53.363838Z",
+    "id": 41,
+    "instance_id": 57,
+    "model_id": 57,
+    "quantity": 1,
+    "ticket_id": 132,
+    "updated_at": "2025-01-29T16:17:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-28T20:16:53.363838Z",
+    "id": 42,
+    "instance_id": 267,
+    "model_id": 25,
+    "quantity": 1,
+    "ticket_id": 103,
+    "updated_at": "2026-02-28T20:16:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-12T22:47:53.363838Z",
+    "id": 43,
+    "instance_id": 241,
+    "model_id": 21,
+    "quantity": 1,
+    "ticket_id": 8,
+    "updated_at": "2026-02-12T22:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-07T03:51:53.363838Z",
+    "id": 44,
+    "instance_id": 41,
+    "model_id": 41,
+    "quantity": 1,
+    "ticket_id": 196,
+    "updated_at": "2025-03-07T03:51:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 100066",
+    "created_at": "2025-09-13T23:50:53.363838Z",
+    "id": 45,
+    "instance_id": 66,
+    "model_id": 66,
+    "quantity": 1,
+    "ticket_id": 211,
+    "updated_at": "2025-09-13T23:50:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-08T23:34:53.363838Z",
+    "id": 46,
+    "instance_id": 330,
+    "model_id": 16,
+    "quantity": 1,
+    "ticket_id": 83,
+    "updated_at": "2025-10-08T23:34:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-18T01:38:53.363838Z",
+    "id": 47,
+    "instance_id": 236,
+    "model_id": 6,
+    "quantity": 1,
+    "ticket_id": 99,
+    "updated_at": "2026-05-18T01:38:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200077",
+    "created_at": "2025-06-05T00:32:53.363838Z",
+    "id": 48,
+    "instance_id": 159,
+    "model_id": 7,
+    "quantity": 1,
+    "ticket_id": 278,
+    "updated_at": "2025-06-05T00:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-05T00:32:53.363838Z",
+    "id": 49,
+    "instance_id": 134,
+    "model_id": 21,
+    "quantity": 1,
+    "ticket_id": 278,
+    "updated_at": "2025-06-05T00:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-29T16:17:53.363838Z",
+    "id": 50,
+    "instance_id": 315,
+    "model_id": 40,
+    "quantity": 1,
+    "ticket_id": 132,
+    "updated_at": "2025-01-29T16:17:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200081",
+    "created_at": "2025-02-17T09:11:53.363838Z",
+    "id": 51,
+    "instance_id": 163,
+    "model_id": 28,
+    "quantity": 1,
+    "ticket_id": 270,
+    "updated_at": "2025-02-17T09:11:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-18T10:07:53.363838Z",
+    "id": 52,
+    "instance_id": 5,
+    "model_id": 5,
+    "quantity": 1,
+    "ticket_id": 190,
+    "updated_at": "2026-02-18T10:07:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200256",
+    "created_at": "2025-04-02T00:19:53.363838Z",
+    "id": 53,
+    "instance_id": 338,
+    "model_id": 44,
+    "quantity": 1,
+    "ticket_id": 75,
+    "updated_at": "2025-04-02T00:19:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-17T07:55:53.363838Z",
+    "id": 54,
+    "instance_id": 189,
+    "model_id": 82,
+    "quantity": 1,
+    "ticket_id": 183,
+    "updated_at": "2025-11-17T07:55:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-12-27T00:28:53.363838Z",
+    "id": 55,
+    "instance_id": 104,
+    "model_id": 54,
+    "quantity": 1,
+    "ticket_id": 108,
+    "updated_at": "2025-12-27T00:28:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-20T01:56:53.363838Z",
+    "id": 56,
+    "instance_id": 22,
+    "model_id": 22,
+    "quantity": 1,
+    "ticket_id": 141,
+    "updated_at": "2026-04-20T01:56:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-03T01:11:53.363838Z",
+    "id": 57,
+    "instance_id": 159,
+    "model_id": 7,
+    "quantity": 1,
+    "ticket_id": 246,
+    "updated_at": "2025-03-03T01:11:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-08T20:09:53.363838Z",
+    "id": 58,
+    "instance_id": 305,
+    "model_id": 38,
+    "quantity": 1,
+    "ticket_id": 26,
+    "updated_at": "2025-04-08T20:09:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-14T17:09:53.363838Z",
+    "id": 59,
+    "instance_id": 319,
+    "model_id": 80,
+    "quantity": 1,
+    "ticket_id": 109,
+    "updated_at": "2025-11-14T17:09:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200050",
+    "created_at": "2025-01-18T20:51:53.363838Z",
+    "id": 60,
+    "instance_id": 132,
+    "model_id": 34,
+    "quantity": 1,
+    "ticket_id": 2,
+    "updated_at": "2025-01-18T20:51:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-10T17:00:53.363838Z",
+    "id": 61,
+    "instance_id": 194,
+    "model_id": 68,
+    "quantity": 1,
+    "ticket_id": 54,
+    "updated_at": "2025-08-10T17:00:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-03T19:32:53.363838Z",
+    "id": 62,
+    "instance_id": 96,
+    "model_id": 63,
+    "quantity": 1,
+    "ticket_id": 87,
+    "updated_at": "2026-01-03T19:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-08T18:39:53.363838Z",
+    "id": 63,
+    "instance_id": 321,
+    "model_id": 70,
+    "quantity": 1,
+    "ticket_id": 63,
+    "updated_at": "2025-04-08T18:39:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200250",
+    "created_at": "2025-02-26T17:05:53.363838Z",
+    "id": 64,
+    "instance_id": 332,
+    "model_id": 5,
+    "quantity": 1,
+    "ticket_id": 237,
+    "updated_at": "2025-02-26T17:05:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-09T21:21:53.363838Z",
+    "id": 65,
+    "instance_id": 36,
+    "model_id": 36,
+    "quantity": 1,
+    "ticket_id": 195,
+    "updated_at": "2026-02-09T21:21:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-12T12:49:53.363838Z",
+    "id": 66,
+    "instance_id": 69,
+    "model_id": 69,
+    "quantity": 1,
+    "ticket_id": 177,
+    "updated_at": "2026-05-12T12:49:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-21T08:42:53.363838Z",
+    "id": 67,
+    "instance_id": 136,
+    "model_id": 49,
+    "quantity": 1,
+    "ticket_id": 84,
+    "updated_at": "2025-11-21T08:42:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-30T10:52:53.363838Z",
+    "id": 68,
+    "instance_id": 219,
+    "model_id": 7,
+    "quantity": 1,
+    "ticket_id": 165,
+    "updated_at": "2025-10-30T10:52:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-08T23:34:53.363838Z",
+    "id": 69,
+    "instance_id": 240,
+    "model_id": 48,
+    "quantity": 1,
+    "ticket_id": 83,
+    "updated_at": "2025-10-08T23:34:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200088",
+    "created_at": "2025-04-30T09:55:53.363838Z",
+    "id": 70,
+    "instance_id": 170,
+    "model_id": 76,
+    "quantity": 1,
+    "ticket_id": 267,
+    "updated_at": "2025-04-30T09:55:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-29T18:02:53.363838Z",
+    "id": 71,
+    "instance_id": 150,
+    "model_id": 71,
+    "quantity": 1,
+    "ticket_id": 172,
+    "updated_at": "2025-11-29T18:02:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-14T05:47:53.363838Z",
+    "id": 72,
+    "instance_id": 334,
+    "model_id": 77,
+    "quantity": 1,
+    "ticket_id": 72,
+    "updated_at": "2025-09-14T05:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-15T12:45:53.363838Z",
+    "id": 73,
+    "instance_id": 27,
+    "model_id": 27,
+    "quantity": 1,
+    "ticket_id": 71,
+    "updated_at": "2024-12-15T12:45:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-12T21:44:53.363838Z",
+    "id": 74,
+    "instance_id": 271,
+    "model_id": 65,
+    "quantity": 1,
+    "ticket_id": 186,
+    "updated_at": "2025-09-12T21:44:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-16T12:24:53.363838Z",
+    "id": 75,
+    "instance_id": 123,
+    "model_id": 64,
+    "quantity": 1,
+    "ticket_id": 86,
+    "updated_at": "2024-12-16T12:24:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-18T01:38:53.363838Z",
+    "id": 76,
+    "instance_id": 124,
+    "model_id": 68,
+    "quantity": 1,
+    "ticket_id": 99,
+    "updated_at": "2026-05-18T01:38:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-16T14:03:53.363838Z",
+    "id": 77,
+    "instance_id": 297,
+    "model_id": 12,
+    "quantity": 1,
+    "ticket_id": 143,
+    "updated_at": "2026-02-16T14:03:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 100069",
+    "created_at": "2024-12-11T22:36:53.363838Z",
+    "id": 78,
+    "instance_id": 69,
+    "model_id": 69,
+    "quantity": 1,
+    "ticket_id": 1,
+    "updated_at": "2024-12-11T22:36:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-01T20:25:53.363838Z",
+    "id": 79,
+    "instance_id": 351,
+    "model_id": 37,
+    "quantity": 1,
+    "ticket_id": 13,
+    "updated_at": "2026-04-01T20:25:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-02T02:24:53.363838Z",
+    "id": 80,
+    "instance_id": 158,
+    "model_id": 45,
+    "quantity": 1,
+    "ticket_id": 170,
+    "updated_at": "2025-10-02T02:24:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-25T10:23:53.363838Z",
+    "id": 81,
+    "instance_id": 286,
+    "model_id": 25,
+    "quantity": 1,
+    "ticket_id": 18,
+    "updated_at": "2026-04-25T10:23:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-12T22:47:53.363838Z",
+    "id": 82,
+    "instance_id": 292,
+    "model_id": 82,
+    "quantity": 1,
+    "ticket_id": 8,
+    "updated_at": "2026-02-12T22:47:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 100037",
+    "created_at": "2025-04-13T07:28:53.363838Z",
+    "id": 83,
+    "instance_id": 37,
+    "model_id": 37,
+    "quantity": 1,
+    "ticket_id": 36,
+    "updated_at": "2025-04-13T07:28:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-28T21:35:53.363838Z",
+    "id": 84,
+    "instance_id": 225,
+    "model_id": 72,
+    "quantity": 1,
+    "ticket_id": 245,
+    "updated_at": "2025-11-28T21:35:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-03-12T13:34:53.363838Z",
+    "id": 85,
+    "instance_id": 74,
+    "model_id": 74,
+    "quantity": 1,
+    "ticket_id": 88,
+    "updated_at": "2026-03-12T13:34:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-03-12T13:34:53.363838Z",
+    "id": 86,
+    "instance_id": 180,
+    "model_id": 31,
+    "quantity": 1,
+    "ticket_id": 88,
+    "updated_at": "2026-03-12T13:34:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-28T16:11:53.363838Z",
+    "id": 87,
+    "instance_id": 246,
+    "model_id": 72,
+    "quantity": 1,
+    "ticket_id": 19,
+    "updated_at": "2026-01-28T16:11:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200186",
+    "created_at": "2025-11-29T00:55:53.363838Z",
+    "id": 88,
+    "instance_id": 268,
+    "model_id": 71,
+    "quantity": 1,
+    "ticket_id": 33,
+    "updated_at": "2025-11-29T00:55:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-30T13:50:53.363838Z",
+    "id": 89,
+    "instance_id": 307,
+    "model_id": 74,
+    "quantity": 1,
+    "ticket_id": 6,
+    "updated_at": "2025-05-30T13:50:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-05T05:46:53.363838Z",
+    "id": 90,
+    "instance_id": 216,
+    "model_id": 48,
+    "quantity": 1,
+    "ticket_id": 117,
+    "updated_at": "2025-10-05T05:46:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-09T21:14:53.363838Z",
+    "id": 91,
+    "instance_id": 46,
+    "model_id": 46,
+    "quantity": 1,
+    "ticket_id": 242,
+    "updated_at": "2026-05-09T21:14:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-23T17:57:53.363838Z",
+    "id": 92,
+    "instance_id": 102,
+    "model_id": 59,
+    "quantity": 1,
+    "ticket_id": 210,
+    "updated_at": "2024-12-23T17:57:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-09T15:46:53.363838Z",
+    "id": 93,
+    "instance_id": 188,
+    "model_id": 6,
+    "quantity": 1,
+    "ticket_id": 59,
+    "updated_at": "2026-04-09T15:46:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-29T16:17:53.363838Z",
+    "id": 94,
+    "instance_id": 66,
+    "model_id": 66,
+    "quantity": 1,
+    "ticket_id": 132,
+    "updated_at": "2025-01-29T16:17:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-10T19:49:53.363838Z",
+    "id": 95,
+    "instance_id": 355,
+    "model_id": 28,
+    "quantity": 1,
+    "ticket_id": 209,
+    "updated_at": "2025-02-10T19:49:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-08T06:00:53.363838Z",
+    "id": 96,
+    "instance_id": 196,
+    "model_id": 71,
+    "quantity": 1,
+    "ticket_id": 269,
+    "updated_at": "2026-05-08T06:00:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-11T00:47:53.363838Z",
+    "id": 97,
+    "instance_id": 205,
+    "model_id": 19,
+    "quantity": 1,
+    "ticket_id": 56,
+    "updated_at": "2025-11-11T00:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-17T23:52:53.363838Z",
+    "id": 98,
+    "instance_id": 158,
+    "model_id": 45,
+    "quantity": 1,
+    "ticket_id": 222,
+    "updated_at": "2025-02-17T23:52:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-12T21:48:53.363838Z",
+    "id": 99,
+    "instance_id": 22,
+    "model_id": 22,
+    "quantity": 1,
+    "ticket_id": 114,
+    "updated_at": "2026-01-12T21:48:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-08T08:08:53.363838Z",
+    "id": 100,
+    "instance_id": 137,
+    "model_id": 7,
+    "quantity": 1,
+    "ticket_id": 230,
+    "updated_at": "2025-02-08T08:08:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-20T17:45:53.363838Z",
+    "id": 101,
+    "instance_id": 320,
+    "model_id": 72,
+    "quantity": 1,
+    "ticket_id": 166,
+    "updated_at": "2026-01-20T17:45:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-17T23:52:53.363838Z",
+    "id": 102,
+    "instance_id": 338,
+    "model_id": 44,
+    "quantity": 1,
+    "ticket_id": 222,
+    "updated_at": "2025-02-17T23:52:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-16T12:32:53.363838Z",
+    "id": 103,
+    "instance_id": 337,
+    "model_id": 3,
+    "quantity": 1,
+    "ticket_id": 150,
+    "updated_at": "2025-05-16T12:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-07T00:59:53.363838Z",
+    "id": 104,
+    "instance_id": 166,
+    "model_id": 53,
+    "quantity": 1,
+    "ticket_id": 273,
+    "updated_at": "2025-06-07T00:59:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-23T15:24:53.363838Z",
+    "id": 105,
+    "instance_id": 268,
+    "model_id": 71,
+    "quantity": 1,
+    "ticket_id": 105,
+    "updated_at": "2025-02-23T15:24:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-12-17T18:52:53.363838Z",
+    "id": 106,
+    "instance_id": 128,
+    "model_id": 8,
+    "quantity": 1,
+    "ticket_id": 234,
+    "updated_at": "2025-12-17T18:52:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-18T20:41:53.363838Z",
+    "id": 107,
+    "instance_id": 117,
+    "model_id": 79,
+    "quantity": 1,
+    "ticket_id": 93,
+    "updated_at": "2025-03-18T20:41:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-25T15:27:53.363838Z",
+    "id": 108,
+    "instance_id": 143,
+    "model_id": 18,
+    "quantity": 1,
+    "ticket_id": 212,
+    "updated_at": "2025-09-25T15:27:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-26T08:54:53.363838Z",
+    "id": 109,
+    "instance_id": 195,
+    "model_id": 78,
+    "quantity": 1,
+    "ticket_id": 74,
+    "updated_at": "2025-08-26T08:54:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-03-12T13:34:53.363838Z",
+    "id": 110,
+    "instance_id": 22,
+    "model_id": 22,
+    "quantity": 1,
+    "ticket_id": 88,
+    "updated_at": "2026-03-12T13:34:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-31T08:50:53.363838Z",
+    "id": 111,
+    "instance_id": 56,
+    "model_id": 56,
+    "quantity": 1,
+    "ticket_id": 64,
+    "updated_at": "2026-01-31T08:50:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200225",
+    "created_at": "2024-12-23T17:57:53.363838Z",
+    "id": 112,
+    "instance_id": 307,
+    "model_id": 74,
+    "quantity": 1,
+    "ticket_id": 210,
+    "updated_at": "2024-12-23T17:57:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-06T05:23:53.363838Z",
+    "id": 113,
+    "instance_id": 315,
+    "model_id": 40,
+    "quantity": 1,
+    "ticket_id": 31,
+    "updated_at": "2026-05-06T05:23:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-26T17:05:53.363838Z",
+    "id": 114,
+    "instance_id": 173,
+    "model_id": 65,
+    "quantity": 1,
+    "ticket_id": 237,
+    "updated_at": "2025-02-26T17:05:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-10T05:56:53.363838Z",
+    "id": 115,
+    "instance_id": 21,
+    "model_id": 21,
+    "quantity": 1,
+    "ticket_id": 215,
+    "updated_at": "2025-09-10T05:56:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-18T14:01:53.363838Z",
+    "id": 116,
+    "instance_id": 136,
+    "model_id": 49,
+    "quantity": 1,
+    "ticket_id": 66,
+    "updated_at": "2025-06-18T14:01:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-16T13:54:53.363838Z",
+    "id": 117,
+    "instance_id": 172,
+    "model_id": 53,
+    "quantity": 1,
+    "ticket_id": 136,
+    "updated_at": "2024-12-16T13:54:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-11T07:46:53.363838Z",
+    "id": 118,
+    "instance_id": 368,
+    "model_id": 81,
+    "quantity": 1,
+    "ticket_id": 30,
+    "updated_at": "2025-07-11T07:46:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-21T16:39:53.363838Z",
+    "id": 119,
+    "instance_id": 53,
+    "model_id": 53,
+    "quantity": 1,
+    "ticket_id": 264,
+    "updated_at": "2025-06-21T16:39:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-01T22:24:53.363838Z",
+    "id": 120,
+    "instance_id": 189,
+    "model_id": 82,
+    "quantity": 1,
+    "ticket_id": 144,
+    "updated_at": "2025-04-01T22:24:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-06T10:25:53.363838Z",
+    "id": 121,
+    "instance_id": 182,
+    "model_id": 21,
+    "quantity": 1,
+    "ticket_id": 43,
+    "updated_at": "2025-05-06T10:25:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-03-12T05:32:53.363838Z",
+    "id": 122,
+    "instance_id": 323,
+    "model_id": 27,
+    "quantity": 1,
+    "ticket_id": 257,
+    "updated_at": "2026-03-12T05:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-11T16:37:53.363838Z",
+    "id": 123,
+    "instance_id": 163,
+    "model_id": 28,
+    "quantity": 1,
+    "ticket_id": 241,
+    "updated_at": "2026-04-11T16:37:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200137",
+    "created_at": "2025-12-23T08:07:53.363838Z",
+    "id": 124,
+    "instance_id": 219,
+    "model_id": 7,
+    "quantity": 1,
+    "ticket_id": 151,
+    "updated_at": "2025-12-23T08:07:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-15T09:38:53.363838Z",
+    "id": 125,
+    "instance_id": 163,
+    "model_id": 28,
+    "quantity": 1,
+    "ticket_id": 121,
+    "updated_at": "2026-05-15T09:38:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-18T10:07:53.363838Z",
+    "id": 126,
+    "instance_id": 112,
+    "model_id": 72,
+    "quantity": 1,
+    "ticket_id": 190,
+    "updated_at": "2026-02-18T10:07:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-30T17:18:53.363838Z",
+    "id": 127,
+    "instance_id": 314,
+    "model_id": 62,
+    "quantity": 1,
+    "ticket_id": 77,
+    "updated_at": "2025-03-30T17:18:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-26T17:05:53.363838Z",
+    "id": 128,
+    "instance_id": 351,
+    "model_id": 37,
+    "quantity": 1,
+    "ticket_id": 237,
+    "updated_at": "2025-02-26T17:05:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-12T18:52:53.363838Z",
+    "id": 129,
+    "instance_id": 281,
+    "model_id": 76,
+    "quantity": 1,
+    "ticket_id": 22,
+    "updated_at": "2025-01-12T18:52:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200165",
+    "created_at": "2025-09-12T08:51:53.363838Z",
+    "id": 130,
+    "instance_id": 247,
+    "model_id": 54,
+    "quantity": 1,
+    "ticket_id": 238,
+    "updated_at": "2025-09-12T08:51:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-19T13:58:53.363838Z",
+    "id": 131,
+    "instance_id": 334,
+    "model_id": 77,
+    "quantity": 1,
+    "ticket_id": 129,
+    "updated_at": "2025-11-19T13:58:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200075",
+    "created_at": "2026-03-03T05:09:53.363838Z",
+    "id": 132,
+    "instance_id": 157,
+    "model_id": 70,
+    "quantity": 1,
+    "ticket_id": 255,
+    "updated_at": "2026-03-03T05:09:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-18T12:47:53.363838Z",
+    "id": 133,
+    "instance_id": 250,
+    "model_id": 20,
+    "quantity": 1,
+    "ticket_id": 3,
+    "updated_at": "2024-12-18T12:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-01T02:17:53.363838Z",
+    "id": 134,
+    "instance_id": 147,
+    "model_id": 49,
+    "quantity": 1,
+    "ticket_id": 203,
+    "updated_at": "2025-06-01T02:17:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200021",
+    "created_at": "2025-05-16T06:18:53.363838Z",
+    "id": 135,
+    "instance_id": 103,
+    "model_id": 69,
+    "quantity": 1,
+    "ticket_id": 124,
+    "updated_at": "2025-05-16T06:18:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-31T13:25:53.363838Z",
+    "id": 136,
+    "instance_id": 369,
+    "model_id": 73,
+    "quantity": 1,
+    "ticket_id": 104,
+    "updated_at": "2025-05-31T13:25:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-06T01:52:53.363838Z",
+    "id": 137,
+    "instance_id": 315,
+    "model_id": 40,
+    "quantity": 1,
+    "ticket_id": 202,
+    "updated_at": "2025-01-06T01:52:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-27T08:30:53.363838Z",
+    "id": 138,
+    "instance_id": 86,
+    "model_id": 3,
+    "quantity": 1,
+    "ticket_id": 153,
+    "updated_at": "2025-10-27T08:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-29T19:32:53.363838Z",
+    "id": 139,
+    "instance_id": 197,
+    "model_id": 15,
+    "quantity": 1,
+    "ticket_id": 15,
+    "updated_at": "2025-04-29T19:32:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200202",
+    "created_at": "2025-09-19T08:33:53.363838Z",
+    "id": 140,
+    "instance_id": 284,
+    "model_id": 12,
+    "quantity": 1,
+    "ticket_id": 280,
+    "updated_at": "2025-09-19T08:33:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-21T08:42:53.363838Z",
+    "id": 141,
+    "instance_id": 285,
+    "model_id": 52,
+    "quantity": 1,
+    "ticket_id": 84,
+    "updated_at": "2025-11-21T08:42:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-29T09:13:53.363838Z",
+    "id": 142,
+    "instance_id": 295,
+    "model_id": 61,
+    "quantity": 1,
+    "ticket_id": 182,
+    "updated_at": "2025-07-29T09:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-30T06:54:53.363838Z",
+    "id": 143,
+    "instance_id": 354,
+    "model_id": 6,
+    "quantity": 1,
+    "ticket_id": 180,
+    "updated_at": "2025-07-30T06:54:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-05T07:16:53.363838Z",
+    "id": 144,
+    "instance_id": 275,
+    "model_id": 76,
+    "quantity": 1,
+    "ticket_id": 28,
+    "updated_at": "2025-04-05T07:16:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-17T07:55:53.363838Z",
+    "id": 145,
+    "instance_id": 28,
+    "model_id": 28,
+    "quantity": 1,
+    "ticket_id": 183,
+    "updated_at": "2025-11-17T07:55:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-21T16:39:53.363838Z",
+    "id": 146,
+    "instance_id": 129,
+    "model_id": 56,
+    "quantity": 1,
+    "ticket_id": 264,
+    "updated_at": "2025-06-21T16:39:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-14T05:43:53.363838Z",
+    "id": 147,
+    "instance_id": 231,
+    "model_id": 35,
+    "quantity": 1,
+    "ticket_id": 67,
+    "updated_at": "2025-04-14T05:43:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-21T16:39:53.363838Z",
+    "id": 148,
+    "instance_id": 7,
+    "model_id": 7,
+    "quantity": 1,
+    "ticket_id": 264,
+    "updated_at": "2025-06-21T16:39:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-05T21:56:53.363838Z",
+    "id": 149,
+    "instance_id": 344,
+    "model_id": 64,
+    "quantity": 1,
+    "ticket_id": 200,
+    "updated_at": "2026-01-05T21:56:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-06T05:23:53.363838Z",
+    "id": 150,
+    "instance_id": 102,
+    "model_id": 59,
+    "quantity": 1,
+    "ticket_id": 31,
+    "updated_at": "2026-05-06T05:23:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-28T05:04:53.363838Z",
+    "id": 151,
+    "instance_id": 114,
+    "model_id": 9,
+    "quantity": 1,
+    "ticket_id": 256,
+    "updated_at": "2026-02-28T05:04:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-16T08:13:53.363838Z",
+    "id": 152,
+    "instance_id": 330,
+    "model_id": 16,
+    "quantity": 1,
+    "ticket_id": 82,
+    "updated_at": "2026-02-16T08:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-15T05:47:53.363838Z",
+    "id": 153,
+    "instance_id": 80,
+    "model_id": 80,
+    "quantity": 1,
+    "ticket_id": 275,
+    "updated_at": "2025-08-15T05:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-12T21:48:53.363838Z",
+    "id": 154,
+    "instance_id": 72,
+    "model_id": 72,
+    "quantity": 1,
+    "ticket_id": 114,
+    "updated_at": "2026-01-12T21:48:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200173",
+    "created_at": "2025-06-07T00:59:53.363838Z",
+    "id": 155,
+    "instance_id": 255,
+    "model_id": 52,
+    "quantity": 1,
+    "ticket_id": 273,
+    "updated_at": "2025-06-07T00:59:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-21T08:42:53.363838Z",
+    "id": 156,
+    "instance_id": 207,
+    "model_id": 16,
+    "quantity": 1,
+    "ticket_id": 84,
+    "updated_at": "2025-11-21T08:42:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-29T15:55:53.363838Z",
+    "id": 157,
+    "instance_id": 159,
+    "model_id": 7,
+    "quantity": 1,
+    "ticket_id": 265,
+    "updated_at": "2025-11-29T15:55:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-30T13:50:53.363838Z",
+    "id": 158,
+    "instance_id": 215,
+    "model_id": 8,
+    "quantity": 1,
+    "ticket_id": 6,
+    "updated_at": "2025-05-30T13:50:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-02T04:51:53.363838Z",
+    "id": 159,
+    "instance_id": 61,
+    "model_id": 61,
+    "quantity": 1,
+    "ticket_id": 68,
+    "updated_at": "2025-05-02T04:51:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-23T21:00:53.363838Z",
+    "id": 160,
+    "instance_id": 360,
+    "model_id": 23,
+    "quantity": 1,
+    "ticket_id": 217,
+    "updated_at": "2026-01-23T21:00:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-08T02:39:53.363838Z",
+    "id": 161,
+    "instance_id": 98,
+    "model_id": 77,
+    "quantity": 1,
+    "ticket_id": 198,
+    "updated_at": "2025-05-08T02:39:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-11T13:40:53.363838Z",
+    "id": 162,
+    "instance_id": 322,
+    "model_id": 68,
+    "quantity": 1,
+    "ticket_id": 223,
+    "updated_at": "2025-02-11T13:40:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200272",
+    "created_at": "2025-01-31T02:31:53.363838Z",
+    "id": 163,
+    "instance_id": 354,
+    "model_id": 6,
+    "quantity": 1,
+    "ticket_id": 259,
+    "updated_at": "2025-01-31T02:31:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-30T02:56:53.363838Z",
+    "id": 164,
+    "instance_id": 75,
+    "model_id": 75,
+    "quantity": 1,
+    "ticket_id": 92,
+    "updated_at": "2024-12-30T02:56:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-12T21:48:53.363838Z",
+    "id": 165,
+    "instance_id": 218,
+    "model_id": 65,
+    "quantity": 1,
+    "ticket_id": 114,
+    "updated_at": "2026-01-12T21:48:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-14T05:43:53.363838Z",
+    "id": 166,
+    "instance_id": 276,
+    "model_id": 45,
+    "quantity": 1,
+    "ticket_id": 67,
+    "updated_at": "2025-04-14T05:43:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200118",
+    "created_at": "2025-11-26T02:25:53.363838Z",
+    "id": 167,
+    "instance_id": 200,
+    "model_id": 45,
+    "quantity": 1,
+    "ticket_id": 25,
+    "updated_at": "2025-11-26T02:25:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-16T22:50:53.363838Z",
+    "id": 168,
+    "instance_id": 44,
+    "model_id": 44,
+    "quantity": 1,
+    "ticket_id": 7,
+    "updated_at": "2025-04-16T22:50:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-15T11:26:53.363838Z",
+    "id": 169,
+    "instance_id": 370,
+    "model_id": 3,
+    "quantity": 1,
+    "ticket_id": 57,
+    "updated_at": "2025-10-15T11:26:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-18T23:12:53.363838Z",
+    "id": 170,
+    "instance_id": 163,
+    "model_id": 28,
+    "quantity": 1,
+    "ticket_id": 192,
+    "updated_at": "2025-10-18T23:12:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200120",
+    "created_at": "2025-11-08T17:45:53.363838Z",
+    "id": 171,
+    "instance_id": 202,
+    "model_id": 46,
+    "quantity": 1,
+    "ticket_id": 274,
+    "updated_at": "2025-11-08T17:45:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-11T00:21:53.363838Z",
+    "id": 172,
+    "instance_id": 233,
+    "model_id": 26,
+    "quantity": 1,
+    "ticket_id": 118,
+    "updated_at": "2025-04-11T00:21:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-03-08T09:11:53.363838Z",
+    "id": 173,
+    "instance_id": 372,
+    "model_id": 57,
+    "quantity": 1,
+    "ticket_id": 91,
+    "updated_at": "2026-03-08T09:11:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-19T08:33:53.363838Z",
+    "id": 174,
+    "instance_id": 82,
+    "model_id": 82,
+    "quantity": 1,
+    "ticket_id": 280,
+    "updated_at": "2025-09-19T08:33:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-21T08:04:53.363838Z",
+    "id": 175,
+    "instance_id": 235,
+    "model_id": 71,
+    "quantity": 1,
+    "ticket_id": 95,
+    "updated_at": "2025-04-21T08:04:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-16T01:13:53.363838Z",
+    "id": 176,
+    "instance_id": 303,
+    "model_id": 15,
+    "quantity": 1,
+    "ticket_id": 61,
+    "updated_at": "2025-05-16T01:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-27T02:19:53.363838Z",
+    "id": 177,
+    "instance_id": 205,
+    "model_id": 19,
+    "quantity": 1,
+    "ticket_id": 40,
+    "updated_at": "2025-10-27T02:19:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-23T19:30:53.363838Z",
+    "id": 178,
+    "instance_id": 198,
+    "model_id": 40,
+    "quantity": 1,
+    "ticket_id": 169,
+    "updated_at": "2025-06-23T19:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-03-08T09:11:53.363838Z",
+    "id": 179,
+    "instance_id": 127,
+    "model_id": 47,
+    "quantity": 1,
+    "ticket_id": 91,
+    "updated_at": "2026-03-08T09:11:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-24T08:14:53.363838Z",
+    "id": 180,
+    "instance_id": 368,
+    "model_id": 81,
+    "quantity": 1,
+    "ticket_id": 107,
+    "updated_at": "2025-05-24T08:14:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-19T07:48:53.363838Z",
+    "id": 181,
+    "instance_id": 58,
+    "model_id": 58,
+    "quantity": 1,
+    "ticket_id": 125,
+    "updated_at": "2026-01-19T07:48:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-26T02:25:53.363838Z",
+    "id": 182,
+    "instance_id": 251,
+    "model_id": 12,
+    "quantity": 1,
+    "ticket_id": 25,
+    "updated_at": "2025-11-26T02:25:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-16T01:13:53.363838Z",
+    "id": 183,
+    "instance_id": 199,
+    "model_id": 16,
+    "quantity": 1,
+    "ticket_id": 61,
+    "updated_at": "2025-05-16T01:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-19T03:30:53.363838Z",
+    "id": 184,
+    "instance_id": 334,
+    "model_id": 77,
+    "quantity": 1,
+    "ticket_id": 90,
+    "updated_at": "2025-07-19T03:30:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200043",
+    "created_at": "2026-04-13T18:05:53.363838Z",
+    "id": 185,
+    "instance_id": 125,
+    "model_id": 1,
+    "quantity": 1,
+    "ticket_id": 279,
+    "updated_at": "2026-04-13T18:05:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-08T09:30:53.363838Z",
+    "id": 186,
+    "instance_id": 57,
+    "model_id": 57,
+    "quantity": 1,
+    "ticket_id": 120,
+    "updated_at": "2025-05-08T09:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-03T01:11:53.363838Z",
+    "id": 187,
+    "instance_id": 244,
+    "model_id": 23,
+    "quantity": 1,
+    "ticket_id": 246,
+    "updated_at": "2025-03-03T01:11:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-12T18:50:53.363838Z",
+    "id": 188,
+    "instance_id": 251,
+    "model_id": 12,
+    "quantity": 1,
+    "ticket_id": 146,
+    "updated_at": "2026-04-12T18:50:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200068",
+    "created_at": "2025-05-08T09:30:53.363838Z",
+    "id": 189,
+    "instance_id": 150,
+    "model_id": 71,
+    "quantity": 1,
+    "ticket_id": 120,
+    "updated_at": "2025-05-08T09:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-18T15:53:53.363838Z",
+    "id": 190,
+    "instance_id": 61,
+    "model_id": 61,
+    "quantity": 1,
+    "ticket_id": 37,
+    "updated_at": "2026-02-18T15:53:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-29T19:32:53.363838Z",
+    "id": 191,
+    "instance_id": 79,
+    "model_id": 79,
+    "quantity": 1,
+    "ticket_id": 15,
+    "updated_at": "2025-04-29T19:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-16T08:13:53.363838Z",
+    "id": 192,
+    "instance_id": 375,
+    "model_id": 54,
+    "quantity": 1,
+    "ticket_id": 82,
+    "updated_at": "2026-02-16T08:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-05T17:31:53.363838Z",
+    "id": 193,
+    "instance_id": 110,
+    "model_id": 2,
+    "quantity": 1,
+    "ticket_id": 140,
+    "updated_at": "2025-07-05T17:31:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-27T02:19:53.363838Z",
+    "id": 194,
+    "instance_id": 187,
+    "model_id": 41,
+    "quantity": 1,
+    "ticket_id": 40,
+    "updated_at": "2025-10-27T02:19:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-23T19:30:53.363838Z",
+    "id": 195,
+    "instance_id": 125,
+    "model_id": 1,
+    "quantity": 1,
+    "ticket_id": 169,
+    "updated_at": "2025-06-23T19:30:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200086",
+    "created_at": "2025-09-25T15:27:53.363838Z",
+    "id": 196,
+    "instance_id": 168,
+    "model_id": 19,
+    "quantity": 1,
+    "ticket_id": 212,
+    "updated_at": "2025-09-25T15:27:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 100073",
+    "created_at": "2026-02-18T10:07:53.363838Z",
+    "id": 197,
+    "instance_id": 73,
+    "model_id": 73,
+    "quantity": 1,
+    "ticket_id": 190,
+    "updated_at": "2026-02-18T10:07:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-12-21T13:02:53.363838Z",
+    "id": 198,
+    "instance_id": 230,
+    "model_id": 45,
+    "quantity": 1,
+    "ticket_id": 130,
+    "updated_at": "2025-12-21T13:02:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-11T13:02:53.363838Z",
+    "id": 199,
+    "instance_id": 343,
+    "model_id": 18,
+    "quantity": 1,
+    "ticket_id": 178,
+    "updated_at": "2026-04-11T13:02:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-04T05:09:53.363838Z",
+    "id": 200,
+    "instance_id": 238,
+    "model_id": 76,
+    "quantity": 1,
+    "ticket_id": 225,
+    "updated_at": "2025-03-04T05:09:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-18T10:07:53.363838Z",
+    "id": 201,
+    "instance_id": 254,
+    "model_id": 2,
+    "quantity": 1,
+    "ticket_id": 190,
+    "updated_at": "2026-02-18T10:07:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-03T19:32:53.363838Z",
+    "id": 202,
+    "instance_id": 64,
+    "model_id": 64,
+    "quantity": 1,
+    "ticket_id": 87,
+    "updated_at": "2026-01-03T19:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-18T23:12:53.363838Z",
+    "id": 203,
+    "instance_id": 39,
+    "model_id": 39,
+    "quantity": 1,
+    "ticket_id": 192,
+    "updated_at": "2025-10-18T23:12:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-24T04:14:53.363838Z",
+    "id": 204,
+    "instance_id": 85,
+    "model_id": 67,
+    "quantity": 1,
+    "ticket_id": 97,
+    "updated_at": "2025-10-24T04:14:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-06T19:13:53.363838Z",
+    "id": 205,
+    "instance_id": 244,
+    "model_id": 23,
+    "quantity": 1,
+    "ticket_id": 46,
+    "updated_at": "2025-06-06T19:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-04T06:19:53.363838Z",
+    "id": 206,
+    "instance_id": 246,
+    "model_id": 72,
+    "quantity": 1,
+    "ticket_id": 47,
+    "updated_at": "2025-08-04T06:19:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-12T10:53:53.363838Z",
+    "id": 207,
+    "instance_id": 258,
+    "model_id": 52,
+    "quantity": 1,
+    "ticket_id": 35,
+    "updated_at": "2025-10-12T10:53:53.363838Z"
+  },
+  {
+    "comment": "Выдано по заявке; инв. № 200059",
+    "created_at": "2025-04-05T12:09:53.363838Z",
+    "id": 208,
+    "instance_id": 141,
+    "model_id": 21,
+    "quantity": 1,
+    "ticket_id": 38,
+    "updated_at": "2025-04-05T12:09:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-19T22:03:53.363838Z",
+    "id": 209,
+    "instance_id": 221,
+    "model_id": 39,
+    "quantity": 1,
+    "ticket_id": 181,
+    "updated_at": "2025-02-19T22:03:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-12T18:50:53.363838Z",
+    "id": 210,
+    "instance_id": 339,
+    "model_id": 15,
+    "quantity": 1,
+    "ticket_id": 146,
+    "updated_at": "2026-04-12T18:50:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-18T20:51:53.363838Z",
+    "id": 211,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 9,
+    "ticket_id": 2,
+    "updated_at": "2025-01-18T20:51:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-18T20:51:53.363838Z",
+    "id": 212,
+    "instance_id": null,
+    "model_id": 84,
+    "quantity": 15,
+    "ticket_id": 2,
+    "updated_at": "2025-01-18T20:51:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-18T12:47:53.363838Z",
+    "id": 213,
+    "instance_id": null,
+    "model_id": 87,
+    "quantity": 3,
+    "ticket_id": 3,
+    "updated_at": "2024-12-18T12:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-23T20:15:53.363838Z",
+    "id": 214,
+    "instance_id": null,
+    "model_id": 95,
+    "quantity": 7,
+    "ticket_id": 4,
+    "updated_at": "2025-05-23T20:15:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-12T17:38:53.363838Z",
+    "id": 215,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 10,
+    "ticket_id": 5,
+    "updated_at": "2025-07-12T17:38:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-16T22:50:53.363838Z",
+    "id": 216,
+    "instance_id": null,
+    "model_id": 88,
+    "quantity": 9,
+    "ticket_id": 7,
+    "updated_at": "2025-04-16T22:50:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-16T22:50:53.363838Z",
+    "id": 217,
+    "instance_id": null,
+    "model_id": 98,
+    "quantity": 16,
+    "ticket_id": 7,
+    "updated_at": "2025-04-16T22:50:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-22T19:47:53.363838Z",
+    "id": 218,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 10,
+    "ticket_id": 10,
+    "updated_at": "2025-02-22T19:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-01T20:25:53.363838Z",
+    "id": 219,
+    "instance_id": null,
+    "model_id": 91,
+    "quantity": 18,
+    "ticket_id": 13,
+    "updated_at": "2026-04-01T20:25:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2026-04-25T10:23:53.363838Z",
+    "id": 220,
+    "instance_id": null,
+    "model_id": 88,
+    "quantity": 17,
+    "ticket_id": 18,
+    "updated_at": "2026-04-25T10:23:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2026-04-25T10:23:53.363838Z",
+    "id": 221,
+    "instance_id": null,
+    "model_id": 88,
+    "quantity": 14,
+    "ticket_id": 18,
+    "updated_at": "2026-04-25T10:23:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-22T13:09:53.363838Z",
+    "id": 222,
+    "instance_id": null,
+    "model_id": 84,
+    "quantity": 12,
+    "ticket_id": 20,
+    "updated_at": "2025-03-22T13:09:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-12T18:52:53.363838Z",
+    "id": 223,
+    "instance_id": null,
+    "model_id": 91,
+    "quantity": 6,
+    "ticket_id": 22,
+    "updated_at": "2025-01-12T18:52:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-12T18:52:53.363838Z",
+    "id": 224,
+    "instance_id": null,
+    "model_id": 85,
+    "quantity": 7,
+    "ticket_id": 22,
+    "updated_at": "2025-01-12T18:52:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-12-17T09:30:53.363838Z",
+    "id": 225,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 12,
+    "ticket_id": 24,
+    "updated_at": "2025-12-17T09:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-05T07:16:53.363838Z",
+    "id": 226,
+    "instance_id": null,
+    "model_id": 83,
+    "quantity": 7,
+    "ticket_id": 28,
+    "updated_at": "2025-04-05T07:16:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-05T07:16:53.363838Z",
+    "id": 227,
+    "instance_id": null,
+    "model_id": 86,
+    "quantity": 5,
+    "ticket_id": 28,
+    "updated_at": "2025-04-05T07:16:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-19T01:07:53.363838Z",
+    "id": 228,
+    "instance_id": null,
+    "model_id": 95,
+    "quantity": 3,
+    "ticket_id": 29,
+    "updated_at": "2026-04-19T01:07:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-06T05:23:53.363838Z",
+    "id": 229,
+    "instance_id": null,
+    "model_id": 86,
+    "quantity": 8,
+    "ticket_id": 31,
+    "updated_at": "2026-05-06T05:23:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-29T00:55:53.363838Z",
+    "id": 230,
+    "instance_id": null,
+    "model_id": 86,
+    "quantity": 1,
+    "ticket_id": 33,
+    "updated_at": "2025-11-29T00:55:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-19T06:58:53.363838Z",
+    "id": 231,
+    "instance_id": null,
+    "model_id": 99,
+    "quantity": 19,
+    "ticket_id": 34,
+    "updated_at": "2025-06-19T06:58:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-10-12T10:53:53.363838Z",
+    "id": 232,
+    "instance_id": null,
+    "model_id": 96,
+    "quantity": 18,
+    "ticket_id": 35,
+    "updated_at": "2025-10-12T10:53:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-12T10:53:53.363838Z",
+    "id": 233,
+    "instance_id": null,
+    "model_id": 96,
+    "quantity": 14,
+    "ticket_id": 35,
+    "updated_at": "2025-10-12T10:53:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-18T15:53:53.363838Z",
+    "id": 234,
+    "instance_id": null,
+    "model_id": 89,
+    "quantity": 10,
+    "ticket_id": 37,
+    "updated_at": "2026-02-18T15:53:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2026-02-18T15:53:53.363838Z",
+    "id": 235,
+    "instance_id": null,
+    "model_id": 100,
+    "quantity": 14,
+    "ticket_id": 37,
+    "updated_at": "2026-02-18T15:53:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-04-05T12:09:53.363838Z",
+    "id": 236,
+    "instance_id": null,
+    "model_id": 84,
+    "quantity": 11,
+    "ticket_id": 38,
+    "updated_at": "2025-04-05T12:09:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-05T19:01:53.363838Z",
+    "id": 237,
+    "instance_id": null,
+    "model_id": 88,
+    "quantity": 13,
+    "ticket_id": 39,
+    "updated_at": "2025-07-05T19:01:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-28T06:35:53.363838Z",
+    "id": 238,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 4,
+    "ticket_id": 42,
+    "updated_at": "2025-07-28T06:35:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-06T10:25:53.363838Z",
+    "id": 239,
+    "instance_id": null,
+    "model_id": 92,
+    "quantity": 20,
+    "ticket_id": 43,
+    "updated_at": "2025-05-06T10:25:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2026-04-04T18:52:53.363838Z",
+    "id": 240,
+    "instance_id": null,
+    "model_id": 91,
+    "quantity": 14,
+    "ticket_id": 44,
+    "updated_at": "2026-04-04T18:52:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-22T00:51:53.363838Z",
+    "id": 241,
+    "instance_id": null,
+    "model_id": 96,
+    "quantity": 18,
+    "ticket_id": 49,
+    "updated_at": "2025-06-22T00:51:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-03T12:03:53.363838Z",
+    "id": 242,
+    "instance_id": null,
+    "model_id": 88,
+    "quantity": 3,
+    "ticket_id": 51,
+    "updated_at": "2025-09-03T12:03:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-27T00:36:53.363838Z",
+    "id": 243,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 15,
+    "ticket_id": 52,
+    "updated_at": "2025-05-27T00:36:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-14T16:30:53.363838Z",
+    "id": 244,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 19,
+    "ticket_id": 53,
+    "updated_at": "2025-10-14T16:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-15T11:26:53.363838Z",
+    "id": 245,
+    "instance_id": null,
+    "model_id": 85,
+    "quantity": 16,
+    "ticket_id": 57,
+    "updated_at": "2025-10-15T11:26:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-16T01:13:53.363838Z",
+    "id": 246,
+    "instance_id": null,
+    "model_id": 91,
+    "quantity": 6,
+    "ticket_id": 61,
+    "updated_at": "2025-05-16T01:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-08T18:39:53.363838Z",
+    "id": 247,
+    "instance_id": null,
+    "model_id": 98,
+    "quantity": 16,
+    "ticket_id": 63,
+    "updated_at": "2025-04-08T18:39:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-08T18:39:53.363838Z",
+    "id": 248,
+    "instance_id": null,
+    "model_id": 95,
+    "quantity": 6,
+    "ticket_id": 63,
+    "updated_at": "2025-04-08T18:39:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-31T08:50:53.363838Z",
+    "id": 249,
+    "instance_id": null,
+    "model_id": 85,
+    "quantity": 13,
+    "ticket_id": 64,
+    "updated_at": "2026-01-31T08:50:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-03-06T00:09:53.363838Z",
+    "id": 250,
+    "instance_id": null,
+    "model_id": 93,
+    "quantity": 16,
+    "ticket_id": 65,
+    "updated_at": "2026-03-06T00:09:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-05-02T04:51:53.363838Z",
+    "id": 251,
+    "instance_id": null,
+    "model_id": 86,
+    "quantity": 3,
+    "ticket_id": 68,
+    "updated_at": "2025-05-02T04:51:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-09T06:44:53.363838Z",
+    "id": 252,
+    "instance_id": null,
+    "model_id": 85,
+    "quantity": 8,
+    "ticket_id": 70,
+    "updated_at": "2025-01-09T06:44:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-14T05:47:53.363838Z",
+    "id": 253,
+    "instance_id": null,
+    "model_id": 97,
+    "quantity": 6,
+    "ticket_id": 72,
+    "updated_at": "2025-09-14T05:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-14T05:47:53.363838Z",
+    "id": 254,
+    "instance_id": null,
+    "model_id": 93,
+    "quantity": 6,
+    "ticket_id": 72,
+    "updated_at": "2025-09-14T05:47:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-26T08:54:53.363838Z",
+    "id": 255,
+    "instance_id": null,
+    "model_id": 92,
+    "quantity": 3,
+    "ticket_id": 74,
+    "updated_at": "2025-08-26T08:54:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-26T08:54:53.363838Z",
+    "id": 256,
+    "instance_id": null,
+    "model_id": 95,
+    "quantity": 4,
+    "ticket_id": 74,
+    "updated_at": "2025-08-26T08:54:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-30T17:18:53.363838Z",
+    "id": 257,
+    "instance_id": null,
+    "model_id": 89,
+    "quantity": 2,
+    "ticket_id": 77,
+    "updated_at": "2025-03-30T17:18:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-03-30T17:18:53.363838Z",
+    "id": 258,
+    "instance_id": null,
+    "model_id": 89,
+    "quantity": 2,
+    "ticket_id": 77,
+    "updated_at": "2025-03-30T17:18:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-03T20:40:53.363838Z",
+    "id": 259,
+    "instance_id": null,
+    "model_id": 84,
+    "quantity": 4,
+    "ticket_id": 78,
+    "updated_at": "2025-08-03T20:40:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-05T08:45:53.363838Z",
+    "id": 260,
+    "instance_id": null,
+    "model_id": 96,
+    "quantity": 7,
+    "ticket_id": 79,
+    "updated_at": "2025-08-05T08:45:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-05T08:45:53.363838Z",
+    "id": 261,
+    "instance_id": null,
+    "model_id": 93,
+    "quantity": 2,
+    "ticket_id": 79,
+    "updated_at": "2025-08-05T08:45:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-01-03T19:32:53.363838Z",
+    "id": 262,
+    "instance_id": null,
+    "model_id": 88,
+    "quantity": 12,
+    "ticket_id": 87,
+    "updated_at": "2026-01-03T19:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-03-08T09:11:53.363838Z",
+    "id": 263,
+    "instance_id": null,
+    "model_id": 100,
+    "quantity": 4,
+    "ticket_id": 91,
+    "updated_at": "2026-03-08T09:11:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-18T20:41:53.363838Z",
+    "id": 264,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 20,
+    "ticket_id": 93,
+    "updated_at": "2025-03-18T20:41:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-18T20:41:53.363838Z",
+    "id": 265,
+    "instance_id": null,
+    "model_id": 84,
+    "quantity": 15,
+    "ticket_id": 93,
+    "updated_at": "2025-03-18T20:41:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-21T22:35:53.363838Z",
+    "id": 266,
+    "instance_id": null,
+    "model_id": 97,
+    "quantity": 2,
+    "ticket_id": 96,
+    "updated_at": "2024-12-21T22:35:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-24T04:14:53.363838Z",
+    "id": 267,
+    "instance_id": null,
+    "model_id": 91,
+    "quantity": 5,
+    "ticket_id": 97,
+    "updated_at": "2025-10-24T04:14:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-24T04:14:53.363838Z",
+    "id": 268,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 10,
+    "ticket_id": 97,
+    "updated_at": "2025-10-24T04:14:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-18T01:38:53.363838Z",
+    "id": 269,
+    "instance_id": null,
+    "model_id": 95,
+    "quantity": 1,
+    "ticket_id": 99,
+    "updated_at": "2026-05-18T01:38:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-09-25T00:04:53.363838Z",
+    "id": 270,
+    "instance_id": null,
+    "model_id": 98,
+    "quantity": 14,
+    "ticket_id": 100,
+    "updated_at": "2025-09-25T00:04:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-09-25T00:04:53.363838Z",
+    "id": 271,
+    "instance_id": null,
+    "model_id": 97,
+    "quantity": 16,
+    "ticket_id": 100,
+    "updated_at": "2025-09-25T00:04:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-21T14:36:53.363838Z",
+    "id": 272,
+    "instance_id": null,
+    "model_id": 83,
+    "quantity": 9,
+    "ticket_id": 101,
+    "updated_at": "2025-08-21T14:36:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-07-23T11:38:53.363838Z",
+    "id": 273,
+    "instance_id": null,
+    "model_id": 95,
+    "quantity": 9,
+    "ticket_id": 102,
+    "updated_at": "2025-07-23T11:38:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-23T15:24:53.363838Z",
+    "id": 274,
+    "instance_id": null,
+    "model_id": 85,
+    "quantity": 16,
+    "ticket_id": 105,
+    "updated_at": "2025-02-23T15:24:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-24T08:14:53.363838Z",
+    "id": 275,
+    "instance_id": null,
+    "model_id": 91,
+    "quantity": 18,
+    "ticket_id": 107,
+    "updated_at": "2025-05-24T08:14:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-14T17:09:53.363838Z",
+    "id": 276,
+    "instance_id": null,
+    "model_id": 93,
+    "quantity": 10,
+    "ticket_id": 109,
+    "updated_at": "2025-11-14T17:09:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-06T10:35:53.363838Z",
+    "id": 277,
+    "instance_id": null,
+    "model_id": 100,
+    "quantity": 18,
+    "ticket_id": 111,
+    "updated_at": "2025-08-06T10:35:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-26T00:44:53.363838Z",
+    "id": 278,
+    "instance_id": null,
+    "model_id": 92,
+    "quantity": 14,
+    "ticket_id": 115,
+    "updated_at": "2025-08-26T00:44:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-26T00:44:53.363838Z",
+    "id": 279,
+    "instance_id": null,
+    "model_id": 93,
+    "quantity": 1,
+    "ticket_id": 115,
+    "updated_at": "2025-08-26T00:44:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-11T00:21:53.363838Z",
+    "id": 280,
+    "instance_id": null,
+    "model_id": 99,
+    "quantity": 1,
+    "ticket_id": 118,
+    "updated_at": "2025-04-11T00:21:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-08T09:30:53.363838Z",
+    "id": 281,
+    "instance_id": null,
+    "model_id": 96,
+    "quantity": 4,
+    "ticket_id": 120,
+    "updated_at": "2025-05-08T09:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-17T22:23:53.363838Z",
+    "id": 282,
+    "instance_id": null,
+    "model_id": 91,
+    "quantity": 4,
+    "ticket_id": 122,
+    "updated_at": "2025-05-17T22:23:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-19T13:58:53.363838Z",
+    "id": 283,
+    "instance_id": null,
+    "model_id": 99,
+    "quantity": 17,
+    "ticket_id": 129,
+    "updated_at": "2025-11-19T13:58:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-17T06:33:53.363838Z",
+    "id": 284,
+    "instance_id": null,
+    "model_id": 93,
+    "quantity": 1,
+    "ticket_id": 134,
+    "updated_at": "2026-05-17T06:33:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2026-05-17T06:33:53.363838Z",
+    "id": 285,
+    "instance_id": null,
+    "model_id": 87,
+    "quantity": 17,
+    "ticket_id": 134,
+    "updated_at": "2026-05-17T06:33:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-07-05T17:31:53.363838Z",
+    "id": 286,
+    "instance_id": null,
+    "model_id": 98,
+    "quantity": 4,
+    "ticket_id": 140,
+    "updated_at": "2025-07-05T17:31:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2026-04-20T01:56:53.363838Z",
+    "id": 287,
+    "instance_id": null,
+    "model_id": 98,
+    "quantity": 6,
+    "ticket_id": 141,
+    "updated_at": "2026-04-20T01:56:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-20T01:56:53.363838Z",
+    "id": 288,
+    "instance_id": null,
+    "model_id": 95,
+    "quantity": 4,
+    "ticket_id": 141,
+    "updated_at": "2026-04-20T01:56:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-12T22:18:53.363838Z",
+    "id": 289,
+    "instance_id": null,
+    "model_id": 85,
+    "quantity": 6,
+    "ticket_id": 142,
+    "updated_at": "2025-07-12T22:18:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-12T22:18:53.363838Z",
+    "id": 290,
+    "instance_id": null,
+    "model_id": 84,
+    "quantity": 2,
+    "ticket_id": 142,
+    "updated_at": "2025-07-12T22:18:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-01T22:24:53.363838Z",
+    "id": 291,
+    "instance_id": null,
+    "model_id": 93,
+    "quantity": 8,
+    "ticket_id": 144,
+    "updated_at": "2025-04-01T22:24:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-04-01T22:24:53.363838Z",
+    "id": 292,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 1,
+    "ticket_id": 144,
+    "updated_at": "2025-04-01T22:24:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-01T22:24:53.363838Z",
+    "id": 293,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 8,
+    "ticket_id": 144,
+    "updated_at": "2025-04-01T22:24:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-26T15:22:53.363838Z",
+    "id": 294,
+    "instance_id": null,
+    "model_id": 84,
+    "quantity": 4,
+    "ticket_id": 145,
+    "updated_at": "2025-10-26T15:22:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-12T00:09:53.363838Z",
+    "id": 295,
+    "instance_id": null,
+    "model_id": 99,
+    "quantity": 4,
+    "ticket_id": 147,
+    "updated_at": "2025-10-12T00:09:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-05-16T12:32:53.363838Z",
+    "id": 296,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 4,
+    "ticket_id": 150,
+    "updated_at": "2025-05-16T12:32:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-11-20T02:29:53.363838Z",
+    "id": 297,
+    "instance_id": null,
+    "model_id": 88,
+    "quantity": 17,
+    "ticket_id": 152,
+    "updated_at": "2025-11-20T02:29:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-03-24T06:07:53.363838Z",
+    "id": 298,
+    "instance_id": null,
+    "model_id": 86,
+    "quantity": 9,
+    "ticket_id": 157,
+    "updated_at": "2025-03-24T06:07:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-03-24T06:07:53.363838Z",
+    "id": 299,
+    "instance_id": null,
+    "model_id": 98,
+    "quantity": 9,
+    "ticket_id": 157,
+    "updated_at": "2025-03-24T06:07:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-24T06:07:53.363838Z",
+    "id": 300,
+    "instance_id": null,
+    "model_id": 99,
+    "quantity": 7,
+    "ticket_id": 157,
+    "updated_at": "2025-03-24T06:07:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-27T05:12:53.363838Z",
+    "id": 301,
+    "instance_id": null,
+    "model_id": 96,
+    "quantity": 19,
+    "ticket_id": 159,
+    "updated_at": "2025-04-27T05:12:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-04-27T05:12:53.363838Z",
+    "id": 302,
+    "instance_id": null,
+    "model_id": 83,
+    "quantity": 9,
+    "ticket_id": 159,
+    "updated_at": "2025-04-27T05:12:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-17T20:29:53.363838Z",
+    "id": 303,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 8,
+    "ticket_id": 161,
+    "updated_at": "2025-07-17T20:29:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-07-17T20:29:53.363838Z",
+    "id": 304,
+    "instance_id": null,
+    "model_id": 86,
+    "quantity": 9,
+    "ticket_id": 161,
+    "updated_at": "2025-07-17T20:29:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-19T10:13:53.363838Z",
+    "id": 305,
+    "instance_id": null,
+    "model_id": 85,
+    "quantity": 6,
+    "ticket_id": 164,
+    "updated_at": "2025-11-19T10:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-30T10:52:53.363838Z",
+    "id": 306,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 20,
+    "ticket_id": 165,
+    "updated_at": "2025-10-30T10:52:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-06-23T19:30:53.363838Z",
+    "id": 307,
+    "instance_id": null,
+    "model_id": 98,
+    "quantity": 14,
+    "ticket_id": 169,
+    "updated_at": "2025-06-23T19:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-29T18:02:53.363838Z",
+    "id": 308,
+    "instance_id": null,
+    "model_id": 91,
+    "quantity": 13,
+    "ticket_id": 172,
+    "updated_at": "2025-11-29T18:02:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-30T21:23:53.363838Z",
+    "id": 309,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 5,
+    "ticket_id": 174,
+    "updated_at": "2024-12-30T21:23:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-06-05T00:32:53.363838Z",
+    "id": 310,
+    "instance_id": null,
+    "model_id": 97,
+    "quantity": 9,
+    "ticket_id": 278,
+    "updated_at": "2025-06-05T00:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-12T12:49:53.363838Z",
+    "id": 311,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 14,
+    "ticket_id": 177,
+    "updated_at": "2026-05-12T12:49:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-10-18T07:48:53.363838Z",
+    "id": 312,
+    "instance_id": null,
+    "model_id": 95,
+    "quantity": 18,
+    "ticket_id": 179,
+    "updated_at": "2025-10-18T07:48:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-18T07:48:53.363838Z",
+    "id": 313,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 1,
+    "ticket_id": 179,
+    "updated_at": "2025-10-18T07:48:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-02-19T22:03:53.363838Z",
+    "id": 314,
+    "instance_id": null,
+    "model_id": 95,
+    "quantity": 20,
+    "ticket_id": 181,
+    "updated_at": "2025-02-19T22:03:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-29T09:13:53.363838Z",
+    "id": 315,
+    "instance_id": null,
+    "model_id": 87,
+    "quantity": 2,
+    "ticket_id": 182,
+    "updated_at": "2025-07-29T09:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-11T11:00:53.363838Z",
+    "id": 316,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 20,
+    "ticket_id": 185,
+    "updated_at": "2025-10-11T11:00:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-06T08:15:53.363838Z",
+    "id": 317,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 5,
+    "ticket_id": 187,
+    "updated_at": "2025-02-06T08:15:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-10-18T23:12:53.363838Z",
+    "id": 318,
+    "instance_id": null,
+    "model_id": 92,
+    "quantity": 3,
+    "ticket_id": 192,
+    "updated_at": "2025-10-18T23:12:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-25T22:29:53.363838Z",
+    "id": 319,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 4,
+    "ticket_id": 193,
+    "updated_at": "2025-01-25T22:29:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2026-02-09T21:21:53.363838Z",
+    "id": 320,
+    "instance_id": null,
+    "model_id": 99,
+    "quantity": 13,
+    "ticket_id": 195,
+    "updated_at": "2026-02-09T21:21:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-03-07T03:51:53.363838Z",
+    "id": 321,
+    "instance_id": null,
+    "model_id": 97,
+    "quantity": 15,
+    "ticket_id": 196,
+    "updated_at": "2025-03-07T03:51:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-08T02:39:53.363838Z",
+    "id": 322,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 11,
+    "ticket_id": 198,
+    "updated_at": "2025-05-08T02:39:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-15T05:49:53.363838Z",
+    "id": 323,
+    "instance_id": null,
+    "model_id": 91,
+    "quantity": 6,
+    "ticket_id": 199,
+    "updated_at": "2025-08-15T05:49:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-13T22:22:53.363838Z",
+    "id": 324,
+    "instance_id": null,
+    "model_id": 97,
+    "quantity": 7,
+    "ticket_id": 201,
+    "updated_at": "2025-04-13T22:22:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-04T07:05:53.363838Z",
+    "id": 325,
+    "instance_id": null,
+    "model_id": 100,
+    "quantity": 8,
+    "ticket_id": 205,
+    "updated_at": "2026-05-04T07:05:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-04T16:22:53.363838Z",
+    "id": 326,
+    "instance_id": null,
+    "model_id": 89,
+    "quantity": 17,
+    "ticket_id": 208,
+    "updated_at": "2025-11-04T16:22:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-23T17:57:53.363838Z",
+    "id": 327,
+    "instance_id": null,
+    "model_id": 88,
+    "quantity": 13,
+    "ticket_id": 210,
+    "updated_at": "2024-12-23T17:57:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-25T15:27:53.363838Z",
+    "id": 328,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 1,
+    "ticket_id": 212,
+    "updated_at": "2025-09-25T15:27:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-29T12:25:53.363838Z",
+    "id": 329,
+    "instance_id": null,
+    "model_id": 97,
+    "quantity": 7,
+    "ticket_id": 214,
+    "updated_at": "2025-08-29T12:25:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-29T12:25:53.363838Z",
+    "id": 330,
+    "instance_id": null,
+    "model_id": 100,
+    "quantity": 9,
+    "ticket_id": 214,
+    "updated_at": "2025-08-29T12:25:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-09-10T05:56:53.363838Z",
+    "id": 331,
+    "instance_id": null,
+    "model_id": 85,
+    "quantity": 11,
+    "ticket_id": 215,
+    "updated_at": "2025-09-10T05:56:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-07T08:55:53.363838Z",
+    "id": 332,
+    "instance_id": null,
+    "model_id": 87,
+    "quantity": 2,
+    "ticket_id": 218,
+    "updated_at": "2025-08-07T08:55:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-05-17T00:31:53.363838Z",
+    "id": 333,
+    "instance_id": null,
+    "model_id": 89,
+    "quantity": 18,
+    "ticket_id": 220,
+    "updated_at": "2025-05-17T00:31:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-11T13:40:53.363838Z",
+    "id": 334,
+    "instance_id": null,
+    "model_id": 86,
+    "quantity": 6,
+    "ticket_id": 223,
+    "updated_at": "2025-02-11T13:40:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-07-22T01:08:53.363838Z",
+    "id": 335,
+    "instance_id": null,
+    "model_id": 98,
+    "quantity": 14,
+    "ticket_id": 227,
+    "updated_at": "2025-07-22T01:08:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-12-17T18:52:53.363838Z",
+    "id": 336,
+    "instance_id": null,
+    "model_id": 95,
+    "quantity": 19,
+    "ticket_id": 234,
+    "updated_at": "2025-12-17T18:52:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2024-12-21T20:13:53.363838Z",
+    "id": 337,
+    "instance_id": null,
+    "model_id": 83,
+    "quantity": 20,
+    "ticket_id": 235,
+    "updated_at": "2024-12-21T20:13:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-24T19:21:53.363838Z",
+    "id": 338,
+    "instance_id": null,
+    "model_id": 91,
+    "quantity": 11,
+    "ticket_id": 236,
+    "updated_at": "2025-03-24T19:21:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-26T17:05:53.363838Z",
+    "id": 339,
+    "instance_id": null,
+    "model_id": 100,
+    "quantity": 13,
+    "ticket_id": 237,
+    "updated_at": "2025-02-26T17:05:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-12T08:51:53.363838Z",
+    "id": 340,
+    "instance_id": null,
+    "model_id": 85,
+    "quantity": 18,
+    "ticket_id": 238,
+    "updated_at": "2025-09-12T08:51:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-20T18:20:53.363838Z",
+    "id": 341,
+    "instance_id": null,
+    "model_id": 98,
+    "quantity": 19,
+    "ticket_id": 240,
+    "updated_at": "2026-04-20T18:20:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-06T14:41:53.363838Z",
+    "id": 342,
+    "instance_id": null,
+    "model_id": 84,
+    "quantity": 2,
+    "ticket_id": 243,
+    "updated_at": "2025-04-06T14:41:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-02-04T13:28:53.363838Z",
+    "id": 343,
+    "instance_id": null,
+    "model_id": 86,
+    "quantity": 10,
+    "ticket_id": 244,
+    "updated_at": "2025-02-04T13:28:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-03T01:11:53.363838Z",
+    "id": 344,
+    "instance_id": null,
+    "model_id": 97,
+    "quantity": 18,
+    "ticket_id": 246,
+    "updated_at": "2025-03-03T01:11:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-05-26T08:35:53.363838Z",
+    "id": 345,
+    "instance_id": null,
+    "model_id": 84,
+    "quantity": 5,
+    "ticket_id": 248,
+    "updated_at": "2026-05-26T08:35:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-03-06T15:43:53.363838Z",
+    "id": 346,
+    "instance_id": null,
+    "model_id": 88,
+    "quantity": 11,
+    "ticket_id": 250,
+    "updated_at": "2025-03-06T15:43:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-01-01T19:30:53.363838Z",
+    "id": 347,
+    "instance_id": null,
+    "model_id": 92,
+    "quantity": 17,
+    "ticket_id": 253,
+    "updated_at": "2025-01-01T19:30:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-04-01T18:23:53.363838Z",
+    "id": 348,
+    "instance_id": null,
+    "model_id": 97,
+    "quantity": 19,
+    "ticket_id": 254,
+    "updated_at": "2026-04-01T18:23:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-02-28T05:04:53.363838Z",
+    "id": 349,
+    "instance_id": null,
+    "model_id": 94,
+    "quantity": 15,
+    "ticket_id": 256,
+    "updated_at": "2026-02-28T05:04:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-03-12T05:32:53.363838Z",
+    "id": 350,
+    "instance_id": null,
+    "model_id": 96,
+    "quantity": 1,
+    "ticket_id": 257,
+    "updated_at": "2026-03-12T05:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2026-03-12T05:32:53.363838Z",
+    "id": 351,
+    "instance_id": null,
+    "model_id": 83,
+    "quantity": 18,
+    "ticket_id": 257,
+    "updated_at": "2026-03-12T05:32:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-19T08:17:53.363838Z",
+    "id": 352,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 1,
+    "ticket_id": 260,
+    "updated_at": "2025-10-19T08:17:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-10-19T08:17:53.363838Z",
+    "id": 353,
+    "instance_id": null,
+    "model_id": 84,
+    "quantity": 15,
+    "ticket_id": 260,
+    "updated_at": "2025-10-19T08:17:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-05-30T21:36:53.363838Z",
+    "id": 354,
+    "instance_id": null,
+    "model_id": 90,
+    "quantity": 17,
+    "ticket_id": 263,
+    "updated_at": "2025-05-30T21:36:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-11-13T18:33:53.363838Z",
+    "id": 355,
+    "instance_id": null,
+    "model_id": 86,
+    "quantity": 19,
+    "ticket_id": 266,
+    "updated_at": "2025-11-13T18:33:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-04-30T09:55:53.363838Z",
+    "id": 356,
+    "instance_id": null,
+    "model_id": 93,
+    "quantity": 15,
+    "ticket_id": 267,
+    "updated_at": "2025-04-30T09:55:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-08-08T12:41:53.363838Z",
+    "id": 357,
+    "instance_id": null,
+    "model_id": 99,
+    "quantity": 13,
+    "ticket_id": 271,
+    "updated_at": "2025-08-08T12:41:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2026-05-29T04:47:53.363838Z",
+    "id": 358,
+    "instance_id": null,
+    "model_id": 85,
+    "quantity": 11,
+    "ticket_id": 272,
+    "updated_at": "2026-05-29T04:47:53.363838Z"
+  },
+  {
+    "comment": "Списано со склада по накладной.",
+    "created_at": "2025-11-08T17:45:53.363838Z",
+    "id": 359,
+    "instance_id": null,
+    "model_id": 88,
+    "quantity": 11,
+    "ticket_id": 274,
+    "updated_at": "2025-11-08T17:45:53.363838Z"
+  },
+  {
+    "comment": "",
+    "created_at": "2025-09-19T08:33:53.363838Z",
+    "id": 360,
+    "instance_id": null,
+    "model_id": 100,
+    "quantity": 4,
+    "ticket_id": 280,
+    "updated_at": "2025-09-19T08:33:53.363838Z"
+  }
+]

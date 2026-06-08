@@ -1,0 +1,7903 @@
+[
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-14T09:14:53.363838Z",
+    "entity_type": "platform",
+    "id": 1,
+    "ticket_id": 33,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-01-03T07:32:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 2,
+    "instance_id": 241,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-09-28T18:46:53.363838Z",
+    "entity_type": "model",
+    "id": 3,
+    "model_id": 94,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-04-03T07:45:53.363838Z",
+    "entity_type": "platform",
+    "id": 4,
+    "ticket_id": 133,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-01-23T16:45:53.363838Z",
+    "entity_type": "location",
+    "id": 5,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-04-05T15:01:53.363838Z",
+    "entity_type": "location",
+    "id": 6,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-01-25T23:30:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 7,
+    "instance_id": 309,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-02-26T12:31:53.363838Z",
+    "entity_type": "type",
+    "id": 8,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-12-04T05:42:53.363838Z",
+    "entity_type": "location",
+    "id": 9,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-11-08T07:16:53.363838Z",
+    "entity_type": "location",
+    "id": 10,
+    "type": "locations",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-02-14T11:08:53.363838Z",
+    "entity_type": "model",
+    "id": 11,
+    "model_id": 3,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-08-14T04:42:53.363838Z",
+    "entity_type": "model",
+    "id": 12,
+    "model_id": 86,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-09-18T14:27:53.363838Z",
+    "entity_type": "model",
+    "id": 13,
+    "model_id": 71,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-12-01T04:26:53.363838Z",
+    "entity_type": "model",
+    "id": 14,
+    "model_id": 95,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-01-21T13:04:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 15,
+    "instance_id": 38,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-03-04T07:09:53.363838Z",
+    "entity_type": "model",
+    "id": 16,
+    "model_id": 52,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-03-10T21:21:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 17,
+    "instance_id": 350,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-01T12:51:53.363838Z",
+    "entity_type": "model",
+    "id": 18,
+    "model_id": 73,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-11-20T17:06:53.363838Z",
+    "entity_type": "type",
+    "id": 19,
+    "type": "types",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-07T05:12:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 20,
+    "instance_id": 346,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-02-13T16:32:53.363838Z",
+    "entity_type": "model",
+    "id": 21,
+    "model_id": 5,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-15T00:19:53.363838Z",
+    "entity_type": "ticket",
+    "id": 22,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-08-16T01:41:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 23,
+    "instance_id": 79,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-04-17T02:21:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 24,
+    "instance_id": 189,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-06-30T14:54:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 25,
+    "instance_id": 289,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-11-26T18:59:53.363838Z",
+    "entity_type": "platform",
+    "id": 26,
+    "ticket_id": 195,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-01-27T04:05:53.363838Z",
+    "entity_type": "platform",
+    "id": 27,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-02-15T15:47:53.363838Z",
+    "entity_type": "location",
+    "id": 28,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-05-14T06:02:53.363838Z",
+    "entity_type": "model",
+    "id": 29,
+    "model_id": 11,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-11-04T00:48:53.363838Z",
+    "entity_type": "type",
+    "id": 30,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-08-11T07:36:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 31,
+    "instance_id": 189,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-05-23T04:07:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 32,
+    "instance_id": 370,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-03-31T02:11:53.363838Z",
+    "entity_type": "model",
+    "id": 33,
+    "model_id": 29,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-09-07T14:52:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 34,
+    "instance_id": 334,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-02-20T22:23:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 35,
+    "instance_id": 268,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-01-05T02:46:53.363838Z",
+    "entity_type": "platform",
+    "id": 36,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-10-31T08:08:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 37,
+    "instance_id": 368,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-11-06T19:52:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 38,
+    "instance_id": 298,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-12-30T19:00:53.363838Z",
+    "entity_type": "ticket",
+    "id": 39,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2026-04-26T20:05:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 40,
+    "instance_id": 110,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-03-25T15:32:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 41,
+    "instance_id": 81,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-03-01T10:53:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 42,
+    "instance_id": 240,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-01-16T05:13:53.363838Z",
+    "entity_type": "type",
+    "id": 43,
+    "type": "types",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-09-15T10:38:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 44,
+    "instance_id": 366,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-03-04T20:05:53.363838Z",
+    "entity_type": "model",
+    "id": 45,
+    "model_id": 4,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-04-11T06:18:53.363838Z",
+    "entity_type": "model",
+    "id": 46,
+    "model_id": 60,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-05-28T22:05:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 47,
+    "instance_id": 111,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-02-02T06:27:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 48,
+    "instance_id": 231,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-07-10T01:45:53.363838Z",
+    "entity_type": "type",
+    "id": 49,
+    "type": "types",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-04-22T15:00:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 50,
+    "instance_id": 94,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-11-21T21:48:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 51,
+    "instance_id": 355,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-02-07T04:47:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 52,
+    "instance_id": 334,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-06-12T11:23:53.363838Z",
+    "entity_type": "ticket",
+    "id": 53,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-05-17T13:48:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 54,
+    "instance_id": 270,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-05T09:12:53.363838Z",
+    "entity_type": "location",
+    "id": 55,
+    "type": "locations",
+    "user_id": 5
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-05-21T12:18:53.363838Z",
+    "entity_type": "type",
+    "id": 56,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-12-06T01:55:53.363838Z",
+    "entity_type": "model",
+    "id": 57,
+    "model_id": 3,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-06-23T14:02:53.363838Z",
+    "entity_type": "location",
+    "id": 58,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-01-14T04:12:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 59,
+    "instance_id": 299,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-04-26T05:28:53.363838Z",
+    "entity_type": "type",
+    "id": 60,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-12-08T03:53:53.363838Z",
+    "entity_type": "ticket",
+    "id": 61,
+    "ticket_id": 107,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-05-22T23:27:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 62,
+    "instance_id": 305,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-03-21T20:58:53.363838Z",
+    "entity_type": "model",
+    "id": 63,
+    "model_id": 15,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-29T21:30:53.363838Z",
+    "entity_type": "platform",
+    "id": 64,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-01-17T08:12:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 65,
+    "instance_id": 133,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-08-26T00:05:53.363838Z",
+    "entity_type": "location",
+    "id": 66,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-08-01T21:57:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 67,
+    "instance_id": 56,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-20T15:10:53.363838Z",
+    "entity_type": "ticket",
+    "id": 68,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-25T03:56:53.363838Z",
+    "entity_type": "platform",
+    "id": 69,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-08-22T00:06:53.363838Z",
+    "entity_type": "location",
+    "id": 70,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-07-20T00:49:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 71,
+    "instance_id": 133,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-08-15T01:20:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 72,
+    "instance_id": 147,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-08-02T12:33:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 73,
+    "instance_id": 117,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-12-27T15:41:53.363838Z",
+    "entity_type": "type",
+    "id": 74,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-10-17T00:17:53.363838Z",
+    "entity_type": "model",
+    "id": 75,
+    "model_id": 96,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-05T22:15:53.363838Z",
+    "entity_type": "ticket",
+    "id": 76,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2026-02-01T03:14:53.363838Z",
+    "entity_type": "model",
+    "id": 77,
+    "model_id": 73,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2026-04-27T22:58:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 78,
+    "instance_id": 21,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-05-18T08:53:53.363838Z",
+    "entity_type": "type",
+    "id": 79,
+    "type": "types",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2026-04-29T09:04:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 80,
+    "instance_id": 262,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-01-13T17:41:53.363838Z",
+    "entity_type": "platform",
+    "id": 81,
+    "ticket_id": 51,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-05-24T22:51:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 82,
+    "instance_id": 227,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-01-06T20:05:53.363838Z",
+    "entity_type": "model",
+    "id": 83,
+    "model_id": 16,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-11-13T07:46:53.363838Z",
+    "entity_type": "platform",
+    "id": 84,
+    "ticket_id": 205,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-06-19T19:50:53.363838Z",
+    "entity_type": "location",
+    "id": 85,
+    "type": "locations",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-12-30T21:19:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 86,
+    "instance_id": 311,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-02-12T21:54:53.363838Z",
+    "entity_type": "model",
+    "id": 87,
+    "model_id": 29,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-12-23T08:04:53.363838Z",
+    "entity_type": "platform",
+    "id": 88,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-06-28T17:19:53.363838Z",
+    "entity_type": "platform",
+    "id": 89,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-07-17T17:31:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 90,
+    "instance_id": 354,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-10-31T13:09:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 91,
+    "instance_id": 270,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-11-28T09:45:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 92,
+    "instance_id": 353,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-10-07T21:02:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 93,
+    "instance_id": 59,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-12T23:12:53.363838Z",
+    "entity_type": "ticket",
+    "id": 94,
+    "ticket_id": 147,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-10-05T16:30:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 95,
+    "instance_id": 112,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2026-01-23T12:10:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 96,
+    "instance_id": 329,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-06-01T18:53:53.363838Z",
+    "entity_type": "platform",
+    "id": 97,
+    "ticket_id": 139,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-06-14T19:15:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 98,
+    "instance_id": 359,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-03T02:27:53.363838Z",
+    "entity_type": "platform",
+    "id": 99,
+    "ticket_id": 263,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-10-07T08:20:53.363838Z",
+    "entity_type": "model",
+    "id": 100,
+    "model_id": 35,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-09-11T21:44:53.363838Z",
+    "entity_type": "ticket",
+    "id": 101,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-05-06T19:09:53.363838Z",
+    "entity_type": "location",
+    "id": 102,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-12-13T06:02:53.363838Z",
+    "entity_type": "platform",
+    "id": 103,
+    "ticket_id": 237,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-03-24T08:19:53.363838Z",
+    "entity_type": "location",
+    "id": 104,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-03-06T10:44:53.363838Z",
+    "entity_type": "location",
+    "id": 105,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-05-09T23:29:53.363838Z",
+    "entity_type": "type",
+    "id": 106,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-05-05T09:35:53.363838Z",
+    "entity_type": "ticket",
+    "id": 107,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-30T17:51:53.363838Z",
+    "entity_type": "platform",
+    "id": 108,
+    "ticket_id": 107,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-02-27T11:39:53.363838Z",
+    "entity_type": "platform",
+    "id": 109,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-01-25T05:11:53.363838Z",
+    "entity_type": "platform",
+    "id": 110,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-28T12:32:53.363838Z",
+    "entity_type": "location",
+    "id": 111,
+    "type": "locations",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-10-11T22:26:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 112,
+    "instance_id": 47,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-07-23T06:38:53.363838Z",
+    "entity_type": "type",
+    "id": 113,
+    "type": "types",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-01-06T13:09:53.363838Z",
+    "entity_type": "model",
+    "id": 114,
+    "model_id": 9,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-02-01T13:10:53.363838Z",
+    "entity_type": "location",
+    "id": 115,
+    "type": "locations",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-12-28T20:22:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 116,
+    "instance_id": 143,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-12-13T23:25:53.363838Z",
+    "entity_type": "platform",
+    "id": 117,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-04-21T14:53:53.363838Z",
+    "entity_type": "type",
+    "id": 118,
+    "type": "types",
+    "user_id": 5
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-06-16T06:26:53.363838Z",
+    "entity_type": "location",
+    "id": 119,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-04-15T20:04:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 120,
+    "instance_id": 258,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-06T23:43:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 121,
+    "instance_id": 332,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-07-12T14:08:53.363838Z",
+    "entity_type": "ticket",
+    "id": 122,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-12-15T12:25:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 123,
+    "instance_id": 250,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-30T06:15:53.363838Z",
+    "entity_type": "location",
+    "id": 124,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-04-30T18:40:53.363838Z",
+    "entity_type": "model",
+    "id": 125,
+    "model_id": 47,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-09-14T16:50:53.363838Z",
+    "entity_type": "ticket",
+    "id": 126,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-02-27T21:15:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 127,
+    "instance_id": 25,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-02-25T12:01:53.363838Z",
+    "entity_type": "ticket",
+    "id": 128,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-12-03T03:00:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 129,
+    "instance_id": 296,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-07-22T03:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 130,
+    "instance_id": 63,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-07-01T16:18:53.363838Z",
+    "entity_type": "model",
+    "id": 131,
+    "model_id": 40,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-08-12T15:34:53.363838Z",
+    "entity_type": "ticket",
+    "id": 132,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-09-24T16:23:53.363838Z",
+    "entity_type": "platform",
+    "id": 133,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-09-01T10:16:53.363838Z",
+    "entity_type": "platform",
+    "id": 134,
+    "ticket_id": 72,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-10-12T04:44:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 135,
+    "instance_id": 239,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-05-05T11:38:53.363838Z",
+    "entity_type": "platform",
+    "id": 136,
+    "ticket_id": 252,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-03-07T16:31:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 137,
+    "instance_id": 46,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-03-18T16:13:53.363838Z",
+    "entity_type": "model",
+    "id": 138,
+    "model_id": 67,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-03-17T19:13:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 139,
+    "instance_id": 265,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-09-28T06:51:53.363838Z",
+    "entity_type": "location",
+    "id": 140,
+    "type": "locations",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-03-22T08:41:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 141,
+    "instance_id": 137,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-12-16T09:49:53.363838Z",
+    "entity_type": "model",
+    "id": 142,
+    "model_id": 56,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-11-09T09:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 143,
+    "instance_id": 96,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-03-28T22:54:53.363838Z",
+    "entity_type": "model",
+    "id": 144,
+    "model_id": 19,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-05-19T16:14:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 145,
+    "instance_id": 17,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-09-12T09:19:53.363838Z",
+    "entity_type": "type",
+    "id": 146,
+    "type": "types",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-09-15T02:52:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 147,
+    "instance_id": 322,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-08-31T22:07:53.363838Z",
+    "entity_type": "type",
+    "id": 148,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-06-12T06:25:53.363838Z",
+    "entity_type": "platform",
+    "id": 149,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-03-05T15:19:53.363838Z",
+    "entity_type": "location",
+    "id": 150,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-06-29T00:34:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 151,
+    "instance_id": 9,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "model_create",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-06-14T19:32:53.363838Z",
+    "entity_type": "model",
+    "id": 152,
+    "model_id": 20,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-04-24T08:00:53.363838Z",
+    "entity_type": "model",
+    "id": 153,
+    "model_id": 21,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-07-04T17:07:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 154,
+    "instance_id": 114,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-03-28T20:44:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 155,
+    "instance_id": 95,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-05-30T23:18:53.363838Z",
+    "entity_type": "model",
+    "id": 156,
+    "model_id": 47,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-08-11T18:56:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 157,
+    "instance_id": 24,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-05-15T07:30:53.363838Z",
+    "entity_type": "type",
+    "id": 158,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-03-29T06:36:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 159,
+    "instance_id": 352,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-11-23T01:24:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 160,
+    "instance_id": 41,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-02T18:01:53.363838Z",
+    "entity_type": "model",
+    "id": 161,
+    "model_id": 2,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "model_update",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2026-05-30T16:41:53.363838Z",
+    "entity_type": "model",
+    "id": 162,
+    "model_id": 52,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-04-13T23:13:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 163,
+    "instance_id": 3,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-06-28T21:11:53.363838Z",
+    "entity_type": "location",
+    "id": 164,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-13T12:31:53.363838Z",
+    "entity_type": "platform",
+    "id": 165,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-03-06T01:40:53.363838Z",
+    "entity_type": "model",
+    "id": 166,
+    "model_id": 31,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-12-25T04:01:53.363838Z",
+    "entity_type": "type",
+    "id": 167,
+    "type": "types",
+    "user_id": 5
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-07-30T15:53:53.363838Z",
+    "entity_type": "model",
+    "id": 168,
+    "model_id": 84,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-11-17T08:46:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 169,
+    "instance_id": 311,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "type_create",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-11-19T01:22:53.363838Z",
+    "entity_type": "type",
+    "id": 170,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-08-12T14:09:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 171,
+    "instance_id": 345,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-07-15T13:26:53.363838Z",
+    "entity_type": "platform",
+    "id": 172,
+    "ticket_id": 105,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-03-07T01:52:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 173,
+    "instance_id": 336,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "location_create",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-10-10T10:21:53.363838Z",
+    "entity_type": "location",
+    "id": 174,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-06-19T05:51:53.363838Z",
+    "entity_type": "model",
+    "id": 175,
+    "model_id": 93,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-09T20:45:53.363838Z",
+    "entity_type": "location",
+    "id": 176,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-09-13T11:47:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 177,
+    "instance_id": 80,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-08-15T12:45:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 178,
+    "instance_id": 289,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-08-07T21:19:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 179,
+    "instance_id": 101,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2025-09-07T01:31:53.363838Z",
+    "entity_type": "model",
+    "id": 180,
+    "model_id": 96,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "type_create",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2026-02-04T03:22:53.363838Z",
+    "entity_type": "type",
+    "id": 181,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-07T22:09:53.363838Z",
+    "entity_type": "platform",
+    "id": 182,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-09-12T20:57:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 183,
+    "instance_id": 305,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-12-12T18:48:53.363838Z",
+    "entity_type": "location",
+    "id": 184,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "model_update",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2026-03-13T23:12:53.363838Z",
+    "entity_type": "model",
+    "id": 185,
+    "model_id": 77,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-02-01T15:12:53.363838Z",
+    "entity_type": "ticket",
+    "id": 186,
+    "ticket_id": 98,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-09-06T15:01:53.363838Z",
+    "entity_type": "model",
+    "id": 187,
+    "model_id": 46,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-02-12T07:42:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 188,
+    "instance_id": 369,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "location_create",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2026-01-31T03:58:53.363838Z",
+    "entity_type": "location",
+    "id": 189,
+    "type": "locations",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-05T08:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 190,
+    "instance_id": 276,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-09-04T18:16:53.363838Z",
+    "entity_type": "ticket",
+    "id": 191,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-01-08T23:46:53.363838Z",
+    "entity_type": "model",
+    "id": 192,
+    "model_id": 50,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-07-31T01:38:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 193,
+    "instance_id": 113,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-12-09T10:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 194,
+    "instance_id": 163,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-09-12T23:11:53.363838Z",
+    "entity_type": "ticket",
+    "id": 195,
+    "ticket_id": 39,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-06-25T21:28:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 196,
+    "instance_id": 191,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-11-15T23:56:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 197,
+    "instance_id": 112,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-03-02T17:50:53.363838Z",
+    "entity_type": "model",
+    "id": 198,
+    "model_id": 82,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-10-08T08:06:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 199,
+    "instance_id": 66,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-09-18T02:12:53.363838Z",
+    "entity_type": "location",
+    "id": 200,
+    "type": "locations",
+    "user_id": 5
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-02-06T10:46:53.363838Z",
+    "entity_type": "model",
+    "id": 201,
+    "model_id": 46,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-06-12T06:21:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 202,
+    "instance_id": 65,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-09-08T23:21:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 203,
+    "instance_id": 178,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-07-12T05:43:53.363838Z",
+    "entity_type": "platform",
+    "id": 204,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-12-27T13:57:53.363838Z",
+    "entity_type": "type",
+    "id": 205,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-06-16T05:14:53.363838Z",
+    "entity_type": "location",
+    "id": 206,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-04-25T12:00:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 207,
+    "instance_id": 116,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-04-16T05:17:53.363838Z",
+    "entity_type": "type",
+    "id": 208,
+    "type": "types",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-11-23T21:14:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 209,
+    "instance_id": 286,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-04-27T12:11:53.363838Z",
+    "entity_type": "location",
+    "id": 210,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-10-23T16:03:53.363838Z",
+    "entity_type": "model",
+    "id": 211,
+    "model_id": 6,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-03-06T22:30:53.363838Z",
+    "entity_type": "type",
+    "id": 212,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-01-07T19:54:53.363838Z",
+    "entity_type": "platform",
+    "id": 213,
+    "ticket_id": 134,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-06-01T04:36:53.363838Z",
+    "entity_type": "model",
+    "id": 214,
+    "model_id": 15,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-07-22T10:38:53.363838Z",
+    "entity_type": "model",
+    "id": 215,
+    "model_id": 63,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-03-17T08:12:53.363838Z",
+    "entity_type": "location",
+    "id": 216,
+    "type": "locations",
+    "user_id": 6
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-08-23T22:04:53.363838Z",
+    "entity_type": "location",
+    "id": 217,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-07-24T17:28:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 218,
+    "instance_id": 11,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-09-19T10:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 219,
+    "instance_id": 222,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-15T19:54:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 220,
+    "instance_id": 54,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-18T00:01:53.363838Z",
+    "entity_type": "platform",
+    "id": 221,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-11-07T20:35:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 222,
+    "instance_id": 100,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-04-01T00:58:53.363838Z",
+    "entity_type": "platform",
+    "id": 223,
+    "ticket_id": 121,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-06-03T20:08:53.363838Z",
+    "entity_type": "type",
+    "id": 224,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-03-01T17:30:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 225,
+    "instance_id": 170,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-11-12T14:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 226,
+    "instance_id": 130,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-12-13T00:40:53.363838Z",
+    "entity_type": "location",
+    "id": 227,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-08-02T13:09:53.363838Z",
+    "entity_type": "location",
+    "id": 228,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-03-29T16:20:53.363838Z",
+    "entity_type": "model",
+    "id": 229,
+    "model_id": 23,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-08T01:40:53.363838Z",
+    "entity_type": "model",
+    "id": 230,
+    "model_id": 9,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-08-17T23:24:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 231,
+    "instance_id": 339,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-12-01T14:16:53.363838Z",
+    "entity_type": "model",
+    "id": 232,
+    "model_id": 82,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-09-13T19:38:53.363838Z",
+    "entity_type": "type",
+    "id": 233,
+    "type": "types",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-26T04:51:53.363838Z",
+    "entity_type": "ticket",
+    "id": 234,
+    "ticket_id": 256,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-12-14T17:37:53.363838Z",
+    "entity_type": "type",
+    "id": 235,
+    "type": "types",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-11-28T08:31:53.363838Z",
+    "entity_type": "location",
+    "id": 236,
+    "type": "locations",
+    "user_id": 5
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-09-25T06:33:53.363838Z",
+    "entity_type": "type",
+    "id": 237,
+    "type": "types",
+    "user_id": 5
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-06-11T19:58:53.363838Z",
+    "entity_type": "model",
+    "id": 238,
+    "model_id": 65,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-02-17T18:02:53.363838Z",
+    "entity_type": "model",
+    "id": 239,
+    "model_id": 43,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-02-09T19:45:53.363838Z",
+    "entity_type": "type",
+    "id": 240,
+    "type": "types",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-03-30T12:22:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 241,
+    "instance_id": 374,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-10-02T14:13:53.363838Z",
+    "entity_type": "model",
+    "id": 242,
+    "model_id": 50,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-01-09T02:23:53.363838Z",
+    "entity_type": "model",
+    "id": 243,
+    "model_id": 35,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-12-12T01:24:53.363838Z",
+    "entity_type": "model",
+    "id": 244,
+    "model_id": 66,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-12-05T08:15:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 245,
+    "instance_id": 350,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-12-01T08:43:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 246,
+    "instance_id": 318,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-18T14:58:53.363838Z",
+    "entity_type": "ticket",
+    "id": 247,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-05-11T22:30:53.363838Z",
+    "entity_type": "model",
+    "id": 248,
+    "model_id": 5,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-03-13T22:43:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 249,
+    "instance_id": 356,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-07-27T05:21:53.363838Z",
+    "entity_type": "location",
+    "id": 250,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-05-07T04:52:53.363838Z",
+    "entity_type": "type",
+    "id": 251,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-17T02:38:53.363838Z",
+    "entity_type": "model",
+    "id": 252,
+    "model_id": 94,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-11-16T13:58:53.363838Z",
+    "entity_type": "model",
+    "id": 253,
+    "model_id": 7,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2026-05-21T16:51:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 254,
+    "instance_id": 222,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-12-30T19:22:53.363838Z",
+    "entity_type": "location",
+    "id": 255,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-08-12T21:28:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 256,
+    "instance_id": 297,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-05-02T23:04:53.363838Z",
+    "entity_type": "location",
+    "id": 257,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-10-14T15:39:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 258,
+    "instance_id": 71,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-03-07T04:30:53.363838Z",
+    "entity_type": "type",
+    "id": 259,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-01-09T04:32:53.363838Z",
+    "entity_type": "location",
+    "id": 260,
+    "type": "locations",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-03-10T16:20:53.363838Z",
+    "entity_type": "model",
+    "id": 261,
+    "model_id": 32,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-11-12T12:38:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 262,
+    "instance_id": 328,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-08-31T08:32:53.363838Z",
+    "entity_type": "model",
+    "id": 263,
+    "model_id": 35,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-04-08T09:03:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 264,
+    "instance_id": 347,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-02-10T17:20:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 265,
+    "instance_id": 147,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-03-10T01:43:53.363838Z",
+    "entity_type": "location",
+    "id": 266,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-08-10T13:01:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 267,
+    "instance_id": 22,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-08-23T08:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 268,
+    "instance_id": 174,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-07-01T16:32:53.363838Z",
+    "entity_type": "model",
+    "id": 269,
+    "model_id": 78,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-08-07T01:19:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 270,
+    "instance_id": 353,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-04T01:39:53.363838Z",
+    "entity_type": "ticket",
+    "id": 271,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-07-27T03:08:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 272,
+    "instance_id": 139,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-11-04T13:09:53.363838Z",
+    "entity_type": "platform",
+    "id": 273,
+    "ticket_id": 88,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-07-24T20:44:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 274,
+    "instance_id": 283,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-07-12T02:20:53.363838Z",
+    "entity_type": "model",
+    "id": 275,
+    "model_id": 72,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-11-30T07:02:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 276,
+    "instance_id": 266,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-11-22T07:28:53.363838Z",
+    "entity_type": "platform",
+    "id": 277,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-02-08T09:33:53.363838Z",
+    "entity_type": "type",
+    "id": 278,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-10T13:12:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 279,
+    "instance_id": 150,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-01-01T20:51:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 280,
+    "instance_id": 156,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-08-26T20:12:53.363838Z",
+    "entity_type": "model",
+    "id": 281,
+    "model_id": 54,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-05-17T06:24:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 282,
+    "instance_id": 362,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-05T02:52:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 283,
+    "instance_id": 221,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-08-02T00:17:53.363838Z",
+    "entity_type": "location",
+    "id": 284,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-05-11T20:35:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 285,
+    "instance_id": 233,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-03-07T08:48:53.363838Z",
+    "entity_type": "location",
+    "id": 286,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-02-07T22:12:53.363838Z",
+    "entity_type": "platform",
+    "id": 287,
+    "ticket_id": 88,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-12T15:33:53.363838Z",
+    "entity_type": "ticket",
+    "id": 288,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-08-09T03:46:53.363838Z",
+    "entity_type": "model",
+    "id": 289,
+    "model_id": 66,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-09-16T10:35:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 290,
+    "instance_id": 188,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-10-28T03:47:53.363838Z",
+    "entity_type": "type",
+    "id": 291,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-06-16T03:52:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 292,
+    "instance_id": 328,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-12-18T11:16:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 293,
+    "instance_id": 375,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-05-27T23:53:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 294,
+    "instance_id": 37,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-05T21:47:53.363838Z",
+    "entity_type": "model",
+    "id": 295,
+    "model_id": 90,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-03-17T21:08:53.363838Z",
+    "entity_type": "model",
+    "id": 296,
+    "model_id": 50,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-12-06T01:58:53.363838Z",
+    "entity_type": "location",
+    "id": 297,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-04-27T21:35:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 298,
+    "instance_id": 290,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-05-26T23:40:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 299,
+    "instance_id": 59,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-11-24T23:02:53.363838Z",
+    "entity_type": "model",
+    "id": 300,
+    "model_id": 14,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-10-20T18:41:53.363838Z",
+    "entity_type": "model",
+    "id": 301,
+    "model_id": 80,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-01-19T15:54:53.363838Z",
+    "entity_type": "platform",
+    "id": 302,
+    "ticket_id": 204,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-05-17T05:07:53.363838Z",
+    "entity_type": "type",
+    "id": 303,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-07-14T05:22:53.363838Z",
+    "entity_type": "model",
+    "id": 304,
+    "model_id": 1,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2025-11-22T09:37:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 305,
+    "instance_id": 163,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-03-07T10:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 306,
+    "instance_id": 54,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-12-07T10:06:53.363838Z",
+    "entity_type": "model",
+    "id": 307,
+    "model_id": 52,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-03-25T22:52:53.363838Z",
+    "entity_type": "model",
+    "id": 308,
+    "model_id": 8,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-25T14:22:53.363838Z",
+    "entity_type": "platform",
+    "id": 309,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-12-22T10:29:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 310,
+    "instance_id": 261,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-01-29T00:43:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 311,
+    "instance_id": 3,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-12-25T20:36:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 312,
+    "instance_id": 43,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-11-16T18:22:53.363838Z",
+    "entity_type": "location",
+    "id": 313,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-07-12T12:06:53.363838Z",
+    "entity_type": "model",
+    "id": 314,
+    "model_id": 84,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-03-31T08:50:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 315,
+    "instance_id": 148,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-07-03T09:23:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 316,
+    "instance_id": 360,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-05T13:35:53.363838Z",
+    "entity_type": "ticket",
+    "id": 317,
+    "ticket_id": 79,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-12-23T02:58:53.363838Z",
+    "entity_type": "model",
+    "id": 318,
+    "model_id": 9,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-05-10T09:17:53.363838Z",
+    "entity_type": "platform",
+    "id": 319,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-01-05T11:10:53.363838Z",
+    "entity_type": "type",
+    "id": 320,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-01-06T12:22:53.363838Z",
+    "entity_type": "model",
+    "id": 321,
+    "model_id": 100,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-20T19:18:53.363838Z",
+    "entity_type": "location",
+    "id": 322,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-12-15T13:51:53.363838Z",
+    "entity_type": "type",
+    "id": 323,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-12T16:08:53.363838Z",
+    "entity_type": "platform",
+    "id": 324,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-21T09:26:53.363838Z",
+    "entity_type": "platform",
+    "id": 325,
+    "ticket_id": 65,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-04-25T12:49:53.363838Z",
+    "entity_type": "platform",
+    "id": 326,
+    "ticket_id": 227,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-03-21T13:41:53.363838Z",
+    "entity_type": "type",
+    "id": 327,
+    "type": "types",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-11-13T09:31:53.363838Z",
+    "entity_type": "location",
+    "id": 328,
+    "type": "locations",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-21T00:57:53.363838Z",
+    "entity_type": "platform",
+    "id": 329,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-25T08:20:53.363838Z",
+    "entity_type": "platform",
+    "id": 330,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-14T14:02:53.363838Z",
+    "entity_type": "ticket",
+    "id": 331,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-12-16T15:05:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 332,
+    "instance_id": 145,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-10-11T17:27:53.363838Z",
+    "entity_type": "ticket",
+    "id": 333,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-06-24T01:54:53.363838Z",
+    "entity_type": "type",
+    "id": 334,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-09-23T10:59:53.363838Z",
+    "entity_type": "type",
+    "id": 335,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-11-30T07:52:53.363838Z",
+    "entity_type": "model",
+    "id": 336,
+    "model_id": 52,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-11-21T16:31:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 337,
+    "instance_id": 312,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-03-16T17:32:53.363838Z",
+    "entity_type": "location",
+    "id": 338,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-12-27T21:02:53.363838Z",
+    "entity_type": "ticket",
+    "id": 339,
+    "ticket_id": 69,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-06-13T02:14:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 340,
+    "instance_id": 182,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-08-22T06:32:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 341,
+    "instance_id": 230,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-05-19T12:49:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 342,
+    "instance_id": 8,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-06-11T06:42:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 343,
+    "instance_id": 334,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-01-25T13:48:53.363838Z",
+    "entity_type": "model",
+    "id": 344,
+    "model_id": 12,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-10-03T23:43:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 345,
+    "instance_id": 294,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-11-17T03:40:53.363838Z",
+    "entity_type": "model",
+    "id": 346,
+    "model_id": 48,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "model_create",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2026-01-15T23:19:53.363838Z",
+    "entity_type": "model",
+    "id": 347,
+    "model_id": 50,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-03-11T21:30:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 348,
+    "instance_id": 7,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-07-13T14:53:53.363838Z",
+    "entity_type": "model",
+    "id": 349,
+    "model_id": 40,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-11-08T05:47:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 350,
+    "instance_id": 100,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-09-30T13:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 351,
+    "instance_id": 130,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-17T10:26:53.363838Z",
+    "entity_type": "platform",
+    "id": 352,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "location_create",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2026-06-01T23:55:53.363838Z",
+    "entity_type": "location",
+    "id": 353,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-20T07:05:53.363838Z",
+    "entity_type": "platform",
+    "id": 354,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-11-03T03:37:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 355,
+    "instance_id": 21,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2026-03-27T12:56:53.363838Z",
+    "entity_type": "platform",
+    "id": 356,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-04-08T13:08:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 357,
+    "instance_id": 188,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-26T05:21:53.363838Z",
+    "entity_type": "platform",
+    "id": 358,
+    "ticket_id": 54,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-14T15:23:53.363838Z",
+    "entity_type": "ticket",
+    "id": 359,
+    "ticket_id": 211,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-08-15T03:44:53.363838Z",
+    "entity_type": "model",
+    "id": 360,
+    "model_id": 56,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-04-13T05:45:53.363838Z",
+    "entity_type": "model",
+    "id": 361,
+    "model_id": 25,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-25T03:39:53.363838Z",
+    "entity_type": "location",
+    "id": 362,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-06-16T20:22:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 363,
+    "instance_id": 12,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-12-08T17:55:53.363838Z",
+    "entity_type": "model",
+    "id": 364,
+    "model_id": 12,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-11-20T02:12:53.363838Z",
+    "entity_type": "model",
+    "id": 365,
+    "model_id": 38,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-02-09T18:43:53.363838Z",
+    "entity_type": "type",
+    "id": 366,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-01-23T23:22:53.363838Z",
+    "entity_type": "model",
+    "id": 367,
+    "model_id": 86,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-12-17T10:19:53.363838Z",
+    "entity_type": "location",
+    "id": 368,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-10-26T06:12:53.363838Z",
+    "entity_type": "type",
+    "id": 369,
+    "type": "types",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-10-27T05:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 370,
+    "instance_id": 361,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-20T10:41:53.363838Z",
+    "entity_type": "platform",
+    "id": 371,
+    "ticket_id": 111,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-06-12T01:22:53.363838Z",
+    "entity_type": "platform",
+    "id": 372,
+    "ticket_id": 241,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-12-01T16:07:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 373,
+    "instance_id": 204,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-08-30T05:38:53.363838Z",
+    "entity_type": "model",
+    "id": 374,
+    "model_id": 89,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-10-08T11:01:53.363838Z",
+    "entity_type": "model",
+    "id": 375,
+    "model_id": 49,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-06-19T00:35:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 376,
+    "instance_id": 265,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-12-06T14:49:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 377,
+    "instance_id": 192,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-17T05:07:53.363838Z",
+    "entity_type": "model",
+    "id": 378,
+    "model_id": 37,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-04-19T00:09:53.363838Z",
+    "entity_type": "type",
+    "id": 379,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-01-23T11:11:53.363838Z",
+    "entity_type": "location",
+    "id": 380,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-03-15T19:26:53.363838Z",
+    "entity_type": "type",
+    "id": 381,
+    "type": "types",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-09-05T08:06:53.363838Z",
+    "entity_type": "platform",
+    "id": 382,
+    "ticket_id": 248,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-09-18T12:49:53.363838Z",
+    "entity_type": "location",
+    "id": 383,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-03-07T17:28:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 384,
+    "instance_id": 166,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-10-25T02:12:53.363838Z",
+    "entity_type": "model",
+    "id": 385,
+    "model_id": 72,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-09-16T00:13:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 386,
+    "instance_id": 203,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-08-29T20:25:53.363838Z",
+    "entity_type": "ticket",
+    "id": 387,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-11-16T05:35:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 388,
+    "instance_id": 350,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-01-24T01:22:53.363838Z",
+    "entity_type": "model",
+    "id": 389,
+    "model_id": 88,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-04-21T10:01:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 390,
+    "instance_id": 164,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-03-10T03:49:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 391,
+    "instance_id": 189,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2026-04-29T22:55:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 392,
+    "instance_id": 319,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-05T13:53:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 393,
+    "instance_id": 79,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-04-03T01:56:53.363838Z",
+    "entity_type": "location",
+    "id": 394,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-05-17T11:31:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 395,
+    "instance_id": 171,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-07-05T02:54:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 396,
+    "instance_id": 50,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-07-05T12:07:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 397,
+    "instance_id": 63,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-02-20T05:48:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 398,
+    "instance_id": 53,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-10-08T00:30:53.363838Z",
+    "entity_type": "model",
+    "id": 399,
+    "model_id": 88,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-05-12T06:11:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 400,
+    "instance_id": 331,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-21T04:01:53.363838Z",
+    "entity_type": "platform",
+    "id": 401,
+    "ticket_id": 272,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-04-11T17:58:53.363838Z",
+    "entity_type": "model",
+    "id": 402,
+    "model_id": 5,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-09-26T10:00:53.363838Z",
+    "entity_type": "type",
+    "id": 403,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-05T04:01:53.363838Z",
+    "entity_type": "ticket",
+    "id": 404,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-12-02T16:16:53.363838Z",
+    "entity_type": "model",
+    "id": 405,
+    "model_id": 7,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-05-20T08:14:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 406,
+    "instance_id": 96,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-14T09:18:53.363838Z",
+    "entity_type": "ticket",
+    "id": 407,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-06T00:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 408,
+    "instance_id": 4,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-08-21T17:09:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 409,
+    "instance_id": 332,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-10-29T07:15:53.363838Z",
+    "entity_type": "platform",
+    "id": 410,
+    "ticket_id": 174,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-12-09T12:41:53.363838Z",
+    "entity_type": "type",
+    "id": 411,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-09-02T06:37:53.363838Z",
+    "entity_type": "type",
+    "id": 412,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-06-16T04:38:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 413,
+    "instance_id": 122,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-11-15T07:54:53.363838Z",
+    "entity_type": "model",
+    "id": 414,
+    "model_id": 71,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-11-01T05:37:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 415,
+    "instance_id": 287,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-11-07T16:46:53.363838Z",
+    "entity_type": "model",
+    "id": 416,
+    "model_id": 74,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-08-02T05:18:53.363838Z",
+    "entity_type": "model",
+    "id": 417,
+    "model_id": 82,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-12-27T03:50:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 418,
+    "instance_id": 83,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-11-30T19:15:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 419,
+    "instance_id": 285,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-02-22T11:54:53.363838Z",
+    "entity_type": "model",
+    "id": 420,
+    "model_id": 27,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-22T01:18:53.363838Z",
+    "entity_type": "platform",
+    "id": 421,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-05-06T20:55:53.363838Z",
+    "entity_type": "platform",
+    "id": 422,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-05-30T23:30:53.363838Z",
+    "entity_type": "model",
+    "id": 423,
+    "model_id": 45,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-02-14T10:19:53.363838Z",
+    "entity_type": "location",
+    "id": 424,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-08-18T09:28:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 425,
+    "instance_id": 256,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-03-27T23:21:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 426,
+    "instance_id": 348,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-03-29T15:31:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 427,
+    "instance_id": 365,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-05-25T20:16:53.363838Z",
+    "entity_type": "location",
+    "id": 428,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-09-04T21:15:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 429,
+    "instance_id": 88,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-08-20T13:05:53.363838Z",
+    "entity_type": "model",
+    "id": 430,
+    "model_id": 10,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-06-16T17:45:53.363838Z",
+    "entity_type": "location",
+    "id": 431,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-09-21T00:39:53.363838Z",
+    "entity_type": "platform",
+    "id": 432,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-09-17T08:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 433,
+    "instance_id": 82,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-04-05T02:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 434,
+    "instance_id": 174,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-12-04T08:01:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 435,
+    "instance_id": 171,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-04-25T08:40:53.363838Z",
+    "entity_type": "platform",
+    "id": 436,
+    "ticket_id": 37,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-09-29T04:37:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 437,
+    "instance_id": 104,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-11-03T14:10:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 438,
+    "instance_id": 269,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-07T02:05:53.363838Z",
+    "entity_type": "ticket",
+    "id": 439,
+    "ticket_id": 153,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-03-24T16:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 440,
+    "instance_id": 223,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-03-03T14:32:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 441,
+    "instance_id": 132,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-08-14T12:29:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 442,
+    "instance_id": 24,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-11T22:20:53.363838Z",
+    "entity_type": "platform",
+    "id": 443,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-01-25T20:34:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 444,
+    "instance_id": 280,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-21T15:20:53.363838Z",
+    "entity_type": "platform",
+    "id": 445,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-11-02T06:08:53.363838Z",
+    "entity_type": "model",
+    "id": 446,
+    "model_id": 46,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-05-18T18:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 447,
+    "instance_id": 374,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-02-10T18:19:53.363838Z",
+    "entity_type": "ticket",
+    "id": 448,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-10-14T08:29:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 449,
+    "instance_id": 19,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-07-09T16:54:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 450,
+    "instance_id": 49,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-01-08T12:58:53.363838Z",
+    "entity_type": "platform",
+    "id": 451,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-08-12T09:55:53.363838Z",
+    "entity_type": "location",
+    "id": 452,
+    "type": "locations",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-12-03T16:09:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 453,
+    "instance_id": 189,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-01-16T23:44:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 454,
+    "instance_id": 246,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "model_create",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-12-23T07:32:53.363838Z",
+    "entity_type": "model",
+    "id": 455,
+    "model_id": 30,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-07T10:15:53.363838Z",
+    "entity_type": "platform",
+    "id": 456,
+    "ticket_id": 30,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-10-28T05:02:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 457,
+    "instance_id": 259,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-05-14T12:08:53.363838Z",
+    "entity_type": "model",
+    "id": 458,
+    "model_id": 6,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-16T11:40:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 459,
+    "instance_id": 24,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-11T16:41:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 460,
+    "instance_id": 371,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2026-03-05T22:11:53.363838Z",
+    "entity_type": "model",
+    "id": 461,
+    "model_id": 36,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-05-15T19:41:53.363838Z",
+    "entity_type": "platform",
+    "id": 462,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-10-12T00:02:53.363838Z",
+    "entity_type": "model",
+    "id": 463,
+    "model_id": 16,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-05-03T10:11:53.363838Z",
+    "entity_type": "model",
+    "id": 464,
+    "model_id": 95,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-01-05T00:38:53.363838Z",
+    "entity_type": "model",
+    "id": 465,
+    "model_id": 25,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-08-27T00:05:53.363838Z",
+    "entity_type": "type",
+    "id": 466,
+    "type": "types",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-12-03T23:00:53.363838Z",
+    "entity_type": "ticket",
+    "id": 467,
+    "ticket_id": 11,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-08-03T06:56:53.363838Z",
+    "entity_type": "location",
+    "id": 468,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-09-22T23:02:53.363838Z",
+    "entity_type": "location",
+    "id": 469,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-19T23:00:53.363838Z",
+    "entity_type": "location",
+    "id": 470,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-28T19:34:53.363838Z",
+    "entity_type": "ticket",
+    "id": 471,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2026-04-22T18:08:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 472,
+    "instance_id": 9,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-01-21T08:46:53.363838Z",
+    "entity_type": "model",
+    "id": 473,
+    "model_id": 61,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-02-28T21:20:53.363838Z",
+    "entity_type": "model",
+    "id": 474,
+    "model_id": 83,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-02-07T06:18:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 475,
+    "instance_id": 11,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-03-21T15:28:53.363838Z",
+    "entity_type": "location",
+    "id": 476,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-05-16T16:43:53.363838Z",
+    "entity_type": "platform",
+    "id": 477,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-05-25T00:35:53.363838Z",
+    "entity_type": "ticket",
+    "id": 478,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-08-20T06:05:53.363838Z",
+    "entity_type": "type",
+    "id": 479,
+    "type": "types",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-08T03:09:53.363838Z",
+    "entity_type": "platform",
+    "id": 480,
+    "ticket_id": 20,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-07-21T03:06:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 481,
+    "instance_id": 144,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-10-07T07:02:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 482,
+    "instance_id": 294,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-10-26T19:54:53.363838Z",
+    "entity_type": "type",
+    "id": 483,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-01-20T22:08:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 484,
+    "instance_id": 51,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-12-09T15:24:53.363838Z",
+    "entity_type": "type",
+    "id": 485,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-11-02T14:32:53.363838Z",
+    "entity_type": "location",
+    "id": 486,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-09-30T01:33:53.363838Z",
+    "entity_type": "location",
+    "id": 487,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-05-06T03:48:53.363838Z",
+    "entity_type": "model",
+    "id": 488,
+    "model_id": 46,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-04-15T20:31:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 489,
+    "instance_id": 313,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-02-07T14:38:53.363838Z",
+    "entity_type": "type",
+    "id": 490,
+    "type": "types",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-02-09T22:28:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 491,
+    "instance_id": 63,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-07-03T21:01:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 492,
+    "instance_id": 288,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-12-21T05:09:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 493,
+    "instance_id": 125,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-08-09T20:08:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 494,
+    "instance_id": 123,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-11-08T20:35:53.363838Z",
+    "entity_type": "location",
+    "id": 495,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-10T00:11:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 496,
+    "instance_id": 350,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-07-31T15:08:53.363838Z",
+    "entity_type": "location",
+    "id": 497,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-05-17T14:12:53.363838Z",
+    "entity_type": "platform",
+    "id": 498,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2025-12-17T12:53:53.363838Z",
+    "entity_type": "ticket",
+    "id": 499,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-05-02T05:25:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 500,
+    "instance_id": 252,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-07-12T02:19:53.363838Z",
+    "entity_type": "model",
+    "id": 501,
+    "model_id": 5,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-08-11T05:25:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 502,
+    "instance_id": 13,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-03-29T13:24:53.363838Z",
+    "entity_type": "type",
+    "id": 503,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-04-17T09:24:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 504,
+    "instance_id": 339,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "location_create",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-12-14T00:43:53.363838Z",
+    "entity_type": "location",
+    "id": 505,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-11-03T05:37:53.363838Z",
+    "entity_type": "ticket",
+    "id": 506,
+    "ticket_id": 148,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-07-29T22:28:53.363838Z",
+    "entity_type": "location",
+    "id": 507,
+    "type": "locations",
+    "user_id": 6
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-12-04T20:41:53.363838Z",
+    "entity_type": "model",
+    "id": 508,
+    "model_id": 14,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-11-04T01:00:53.363838Z",
+    "entity_type": "model",
+    "id": 509,
+    "model_id": 50,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-08-28T15:35:53.363838Z",
+    "entity_type": "type",
+    "id": 510,
+    "type": "types",
+    "user_id": 5
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-27T06:27:53.363838Z",
+    "entity_type": "location",
+    "id": 511,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-07-20T21:01:53.363838Z",
+    "entity_type": "location",
+    "id": 512,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2026-04-27T21:10:53.363838Z",
+    "entity_type": "ticket",
+    "id": 513,
+    "ticket_id": 18,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-10-28T00:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 514,
+    "instance_id": 372,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-03-29T08:23:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 515,
+    "instance_id": 332,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-28T14:33:53.363838Z",
+    "entity_type": "location",
+    "id": 516,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-09-29T08:30:53.363838Z",
+    "entity_type": "location",
+    "id": 517,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-01-30T16:13:53.363838Z",
+    "entity_type": "type",
+    "id": 518,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-02-07T05:58:53.363838Z",
+    "entity_type": "type",
+    "id": 519,
+    "type": "types",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-12-15T00:17:53.363838Z",
+    "entity_type": "model",
+    "id": 520,
+    "model_id": 82,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-02-21T11:25:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 521,
+    "instance_id": 33,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-03-24T12:11:53.363838Z",
+    "entity_type": "model",
+    "id": 522,
+    "model_id": 58,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-08-11T10:10:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 523,
+    "instance_id": 299,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-09-11T22:44:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 524,
+    "instance_id": 255,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-10-15T22:06:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 525,
+    "instance_id": 189,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-05-26T01:35:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 526,
+    "instance_id": 152,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-06-27T19:29:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 527,
+    "instance_id": 75,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-09-05T13:31:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 528,
+    "instance_id": 8,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-11-04T18:33:53.363838Z",
+    "entity_type": "model",
+    "id": 529,
+    "model_id": 78,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-03-27T04:15:53.363838Z",
+    "entity_type": "location",
+    "id": 530,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-09-24T21:41:53.363838Z",
+    "entity_type": "model",
+    "id": 531,
+    "model_id": 94,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-07-06T10:49:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 532,
+    "instance_id": 160,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-24T09:44:53.363838Z",
+    "entity_type": "ticket",
+    "id": 533,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-09-03T00:32:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 534,
+    "instance_id": 247,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-15T23:47:53.363838Z",
+    "entity_type": "model",
+    "id": 535,
+    "model_id": 22,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-11-08T03:32:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 536,
+    "instance_id": 251,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2025-11-07T22:02:53.363838Z",
+    "entity_type": "location",
+    "id": 537,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2026-03-04T19:40:53.363838Z",
+    "entity_type": "location",
+    "id": 538,
+    "type": "locations",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-01-12T15:23:53.363838Z",
+    "entity_type": "platform",
+    "id": 539,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-12-08T03:49:53.363838Z",
+    "entity_type": "location",
+    "id": 540,
+    "type": "locations",
+    "user_id": 5
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-08-26T19:52:53.363838Z",
+    "entity_type": "location",
+    "id": 541,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2025-12-20T10:29:53.363838Z",
+    "entity_type": "model",
+    "id": 542,
+    "model_id": 87,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-12T18:47:53.363838Z",
+    "entity_type": "platform",
+    "id": 543,
+    "ticket_id": 174,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2026-04-25T03:30:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 544,
+    "instance_id": 304,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-02-12T10:51:53.363838Z",
+    "entity_type": "platform",
+    "id": 545,
+    "ticket_id": 50,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-02-15T07:57:53.363838Z",
+    "entity_type": "platform",
+    "id": 546,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-08-08T07:19:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 547,
+    "instance_id": 146,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-06-17T08:07:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 548,
+    "instance_id": 165,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-05-17T07:45:53.363838Z",
+    "entity_type": "type",
+    "id": 549,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-01-27T07:01:53.363838Z",
+    "entity_type": "type",
+    "id": 550,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-04-15T02:23:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 551,
+    "instance_id": 351,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-05-16T21:49:53.363838Z",
+    "entity_type": "model",
+    "id": 552,
+    "model_id": 38,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-08T07:21:53.363838Z",
+    "entity_type": "ticket",
+    "id": 553,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-04-26T17:09:53.363838Z",
+    "entity_type": "type",
+    "id": 554,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-24T13:40:53.363838Z",
+    "entity_type": "location",
+    "id": 555,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-01-18T08:53:53.363838Z",
+    "entity_type": "model",
+    "id": 556,
+    "model_id": 13,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-10-04T11:19:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 557,
+    "instance_id": 294,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-04-03T07:19:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 558,
+    "instance_id": 315,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-07-13T19:12:53.363838Z",
+    "entity_type": "location",
+    "id": 559,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-07-11T22:04:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 560,
+    "instance_id": 58,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-28T15:44:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 561,
+    "instance_id": 200,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-09-09T19:35:53.363838Z",
+    "entity_type": "location",
+    "id": 562,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-12-08T18:37:53.363838Z",
+    "entity_type": "location",
+    "id": 563,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-06-18T02:23:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 564,
+    "instance_id": 251,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-04-10T05:10:53.363838Z",
+    "entity_type": "ticket",
+    "id": 565,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-01-08T18:09:53.363838Z",
+    "entity_type": "platform",
+    "id": 566,
+    "ticket_id": 272,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-01-14T05:56:53.363838Z",
+    "entity_type": "type",
+    "id": 567,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-07-04T22:22:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 568,
+    "instance_id": 254,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-12-02T15:24:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 569,
+    "instance_id": 267,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-04-12T13:35:53.363838Z",
+    "entity_type": "platform",
+    "id": 570,
+    "ticket_id": 10,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2026-01-17T07:05:53.363838Z",
+    "entity_type": "type",
+    "id": 571,
+    "type": "types",
+    "user_id": 4
+  },
+  {
+    "activity": "model_update",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-11-15T21:35:53.363838Z",
+    "entity_type": "model",
+    "id": 572,
+    "model_id": 63,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-10-22T07:42:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 573,
+    "instance_id": 67,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-06T16:25:53.363838Z",
+    "entity_type": "ticket",
+    "id": 574,
+    "ticket_id": 249,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-01-04T10:48:53.363838Z",
+    "entity_type": "platform",
+    "id": 575,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-05-22T11:42:53.363838Z",
+    "entity_type": "location",
+    "id": 576,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-05-10T15:08:53.363838Z",
+    "entity_type": "model",
+    "id": 577,
+    "model_id": 76,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-04-16T20:20:53.363838Z",
+    "entity_type": "model",
+    "id": 578,
+    "model_id": 15,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2026-02-06T11:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 579,
+    "instance_id": 152,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-07-04T08:38:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 580,
+    "instance_id": 258,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-11-23T12:29:53.363838Z",
+    "entity_type": "model",
+    "id": 581,
+    "model_id": 46,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-05-04T14:08:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 582,
+    "instance_id": 163,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-02-02T07:23:53.363838Z",
+    "entity_type": "ticket",
+    "id": 583,
+    "ticket_id": 18,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-27T21:29:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 584,
+    "instance_id": 107,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-08-26T03:02:53.363838Z",
+    "entity_type": "type",
+    "id": 585,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-04-14T18:32:53.363838Z",
+    "entity_type": "model",
+    "id": 586,
+    "model_id": 51,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-02-13T21:07:53.363838Z",
+    "entity_type": "model",
+    "id": 587,
+    "model_id": 19,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-01-30T10:57:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 588,
+    "instance_id": 50,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-04T03:10:53.363838Z",
+    "entity_type": "ticket",
+    "id": 589,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-01-01T09:49:53.363838Z",
+    "entity_type": "type",
+    "id": 590,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-10-01T14:02:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 591,
+    "instance_id": 190,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-07-10T04:55:53.363838Z",
+    "entity_type": "type",
+    "id": 592,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-08-20T22:58:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 593,
+    "instance_id": 54,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-12-12T00:47:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 594,
+    "instance_id": 74,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-06-21T08:06:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 595,
+    "instance_id": 37,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-07-31T16:56:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 596,
+    "instance_id": 172,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-03-18T08:26:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 597,
+    "instance_id": 280,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-08-29T23:50:53.363838Z",
+    "entity_type": "location",
+    "id": 598,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-11-02T19:11:53.363838Z",
+    "entity_type": "platform",
+    "id": 599,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "location_create",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-10-19T15:39:53.363838Z",
+    "entity_type": "location",
+    "id": 600,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-09-21T14:07:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 601,
+    "instance_id": 269,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-10-27T07:46:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 602,
+    "instance_id": 257,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-09-12T02:04:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 603,
+    "instance_id": 371,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-11-06T10:11:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 604,
+    "instance_id": 304,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-07-30T03:21:53.363838Z",
+    "entity_type": "ticket",
+    "id": 605,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-05-02T12:18:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 606,
+    "instance_id": 158,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-02-12T17:54:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 607,
+    "instance_id": 104,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-23T23:48:53.363838Z",
+    "entity_type": "ticket",
+    "id": 608,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-07-29T05:45:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 609,
+    "instance_id": 248,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-07-30T16:24:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 610,
+    "instance_id": 250,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-18T23:06:53.363838Z",
+    "entity_type": "ticket",
+    "id": 611,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-12-17T22:44:53.363838Z",
+    "entity_type": "location",
+    "id": 612,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-07-05T10:41:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 613,
+    "instance_id": 152,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-10-19T05:23:53.363838Z",
+    "entity_type": "model",
+    "id": 614,
+    "model_id": 16,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-07-26T08:45:53.363838Z",
+    "entity_type": "location",
+    "id": 615,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-02-24T08:10:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 616,
+    "instance_id": 335,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-10-01T15:36:53.363838Z",
+    "entity_type": "type",
+    "id": 617,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-12-11T21:47:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 618,
+    "instance_id": 84,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-09-24T09:38:53.363838Z",
+    "entity_type": "model",
+    "id": 619,
+    "model_id": 50,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-08-19T13:08:53.363838Z",
+    "entity_type": "model",
+    "id": 620,
+    "model_id": 51,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-05-11T17:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 621,
+    "instance_id": 372,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-24T09:13:53.363838Z",
+    "entity_type": "ticket",
+    "id": 622,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-12-11T04:01:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 623,
+    "instance_id": 304,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "model_create",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2026-05-23T16:15:53.363838Z",
+    "entity_type": "model",
+    "id": 624,
+    "model_id": 60,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-05-11T11:27:53.363838Z",
+    "entity_type": "model",
+    "id": 625,
+    "model_id": 62,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-12-03T09:33:53.363838Z",
+    "entity_type": "type",
+    "id": 626,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-08-04T11:45:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 627,
+    "instance_id": 148,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-10-20T10:57:53.363838Z",
+    "entity_type": "location",
+    "id": 628,
+    "type": "locations",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-12-09T01:52:53.363838Z",
+    "entity_type": "model",
+    "id": 629,
+    "model_id": 66,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-24T02:50:53.363838Z",
+    "entity_type": "platform",
+    "id": 630,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-04-14T06:45:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 631,
+    "instance_id": 183,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-07-09T01:05:53.363838Z",
+    "entity_type": "model",
+    "id": 632,
+    "model_id": 62,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-10T00:51:53.363838Z",
+    "entity_type": "platform",
+    "id": 633,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-06-18T19:47:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 634,
+    "instance_id": 187,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-04-18T17:01:53.363838Z",
+    "entity_type": "model",
+    "id": 635,
+    "model_id": 52,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-03-21T06:20:53.363838Z",
+    "entity_type": "type",
+    "id": 636,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-01T16:30:53.363838Z",
+    "entity_type": "platform",
+    "id": 637,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-09-04T05:00:53.363838Z",
+    "entity_type": "platform",
+    "id": 638,
+    "ticket_id": 124,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-02-27T07:05:53.363838Z",
+    "entity_type": "platform",
+    "id": 639,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-11T16:31:53.363838Z",
+    "entity_type": "model",
+    "id": 640,
+    "model_id": 85,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-03-07T18:06:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 641,
+    "instance_id": 139,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-03-15T22:26:53.363838Z",
+    "entity_type": "location",
+    "id": 642,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-02-24T05:08:53.363838Z",
+    "entity_type": "ticket",
+    "id": 643,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-24T18:51:53.363838Z",
+    "entity_type": "platform",
+    "id": 644,
+    "ticket_id": 174,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-12-06T02:21:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 645,
+    "instance_id": 190,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-06-17T23:55:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 646,
+    "instance_id": 229,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-03-04T04:10:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 647,
+    "instance_id": 95,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-07-31T02:17:53.363838Z",
+    "entity_type": "platform",
+    "id": 648,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-11-25T03:51:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 649,
+    "instance_id": 80,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-06-02T09:58:53.363838Z",
+    "entity_type": "model",
+    "id": 650,
+    "model_id": 10,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-07-14T16:45:53.363838Z",
+    "entity_type": "ticket",
+    "id": 651,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-12-09T16:07:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 652,
+    "instance_id": 151,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-12-09T00:14:53.363838Z",
+    "entity_type": "ticket",
+    "id": 653,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-06-14T07:15:53.363838Z",
+    "entity_type": "location",
+    "id": 654,
+    "type": "locations",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2026-05-17T16:08:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 655,
+    "instance_id": 68,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-06-26T17:05:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 656,
+    "instance_id": 39,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2026-01-09T14:29:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 657,
+    "instance_id": 351,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2026-02-12T16:45:53.363838Z",
+    "entity_type": "model",
+    "id": 658,
+    "model_id": 65,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "model_create",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2026-05-25T15:12:53.363838Z",
+    "entity_type": "model",
+    "id": 659,
+    "model_id": 6,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-09-23T19:21:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 660,
+    "instance_id": 211,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-02-14T19:40:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 661,
+    "instance_id": 132,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-08-03T04:20:53.363838Z",
+    "entity_type": "model",
+    "id": 662,
+    "model_id": 44,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-09-14T17:03:53.363838Z",
+    "entity_type": "model",
+    "id": 663,
+    "model_id": 11,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-11-22T14:36:53.363838Z",
+    "entity_type": "location",
+    "id": 664,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "model_create",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-09-30T15:36:53.363838Z",
+    "entity_type": "model",
+    "id": 665,
+    "model_id": 27,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-09T13:47:53.363838Z",
+    "entity_type": "model",
+    "id": 666,
+    "model_id": 59,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-02-14T23:24:53.363838Z",
+    "entity_type": "model",
+    "id": 667,
+    "model_id": 76,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-05-08T20:08:53.363838Z",
+    "entity_type": "type",
+    "id": 668,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-09-01T17:25:53.363838Z",
+    "entity_type": "model",
+    "id": 669,
+    "model_id": 11,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-12-24T00:32:53.363838Z",
+    "entity_type": "location",
+    "id": 670,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-07-11T22:13:53.363838Z",
+    "entity_type": "model",
+    "id": 671,
+    "model_id": 4,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-08-10T11:01:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 672,
+    "instance_id": 227,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-06T06:37:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 673,
+    "instance_id": 288,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-08-02T20:35:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 674,
+    "instance_id": 358,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-06-11T17:34:53.363838Z",
+    "entity_type": "ticket",
+    "id": 675,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-04-17T02:29:53.363838Z",
+    "entity_type": "platform",
+    "id": 676,
+    "ticket_id": 84,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-05-04T06:50:53.363838Z",
+    "entity_type": "type",
+    "id": 677,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-08-01T12:38:53.363838Z",
+    "entity_type": "model",
+    "id": 678,
+    "model_id": 11,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-01T16:47:53.363838Z",
+    "entity_type": "ticket",
+    "id": 679,
+    "ticket_id": 145,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-06-21T18:23:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 680,
+    "instance_id": 138,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-04-30T12:33:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 681,
+    "instance_id": 214,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-11-21T03:10:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 682,
+    "instance_id": 376,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-10-26T10:38:53.363838Z",
+    "entity_type": "type",
+    "id": 683,
+    "type": "types",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-02-28T05:02:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 684,
+    "instance_id": 156,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2026-04-19T21:44:53.363838Z",
+    "entity_type": "model",
+    "id": 685,
+    "model_id": 66,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-07-22T00:38:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 686,
+    "instance_id": 363,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-06-10T10:06:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 687,
+    "instance_id": 94,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-05-18T04:37:53.363838Z",
+    "entity_type": "platform",
+    "id": 688,
+    "ticket_id": 193,
+    "type": "documents",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-01-15T09:22:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 689,
+    "instance_id": 353,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-08-24T15:01:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 690,
+    "instance_id": 289,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-03-09T18:24:53.363838Z",
+    "entity_type": "model",
+    "id": 691,
+    "model_id": 100,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-02-05T04:25:53.363838Z",
+    "entity_type": "model",
+    "id": 692,
+    "model_id": 6,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-01-29T15:49:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 693,
+    "instance_id": 280,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-05T08:53:53.363838Z",
+    "entity_type": "model",
+    "id": 694,
+    "model_id": 52,
+    "type": "models",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-01-03T11:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 695,
+    "instance_id": 334,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-18T10:01:53.363838Z",
+    "entity_type": "model",
+    "id": 696,
+    "model_id": 22,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-06-28T02:38:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 697,
+    "instance_id": 272,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-09-16T12:48:53.363838Z",
+    "entity_type": "platform",
+    "id": 698,
+    "type": "documents",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-11-29T17:12:53.363838Z",
+    "entity_type": "ticket",
+    "id": 699,
+    "ticket_id": 37,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2026-05-29T21:48:53.363838Z",
+    "entity_type": "model",
+    "id": 700,
+    "model_id": 65,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2026-02-19T08:57:53.363838Z",
+    "entity_type": "ticket",
+    "id": 701,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-12-26T04:28:53.363838Z",
+    "entity_type": "ticket",
+    "id": 702,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-17T10:29:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 703,
+    "instance_id": 190,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-10-22T23:51:53.363838Z",
+    "entity_type": "location",
+    "id": 704,
+    "type": "locations",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-10-07T20:57:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 705,
+    "instance_id": 133,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2026-01-07T00:55:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 706,
+    "instance_id": 367,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-01-24T06:21:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 707,
+    "instance_id": 256,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-10T20:30:53.363838Z",
+    "entity_type": "platform",
+    "id": 708,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-05-05T22:42:53.363838Z",
+    "entity_type": "platform",
+    "id": 709,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-03-08T19:43:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 710,
+    "instance_id": 5,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-09-13T04:04:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 711,
+    "instance_id": 154,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-07-13T07:27:53.363838Z",
+    "entity_type": "model",
+    "id": 712,
+    "model_id": 36,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-11-01T07:19:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 713,
+    "instance_id": 224,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-09-22T05:16:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 714,
+    "instance_id": 304,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-08-16T20:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 715,
+    "instance_id": 38,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-08T07:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 716,
+    "instance_id": 351,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-07-30T14:06:53.363838Z",
+    "entity_type": "model",
+    "id": 717,
+    "model_id": 61,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-08-25T07:49:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 718,
+    "instance_id": 87,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-02-26T19:04:53.363838Z",
+    "entity_type": "location",
+    "id": 719,
+    "type": "locations",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-07-01T14:10:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 720,
+    "instance_id": 28,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-05-16T23:29:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 721,
+    "instance_id": 38,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-20T15:18:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 722,
+    "instance_id": 61,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-04-30T22:30:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 723,
+    "instance_id": 3,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-11-10T17:57:53.363838Z",
+    "entity_type": "type",
+    "id": 724,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-12-09T20:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 725,
+    "instance_id": 60,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-05-14T12:00:53.363838Z",
+    "entity_type": "model",
+    "id": 726,
+    "model_id": 22,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-02-23T21:37:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 727,
+    "instance_id": 280,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Прикреплён акт выполненных работ.",
+    "created_at": "2025-10-01T16:45:53.363838Z",
+    "entity_type": "platform",
+    "id": 728,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-09-17T05:01:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 729,
+    "instance_id": 128,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-04-07T11:52:53.363838Z",
+    "entity_type": "platform",
+    "id": 730,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-16T07:22:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 731,
+    "instance_id": 189,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-06-03T02:00:53.363838Z",
+    "entity_type": "model",
+    "id": 732,
+    "model_id": 61,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-11-09T10:05:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 733,
+    "instance_id": 371,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-03-31T01:45:53.363838Z",
+    "entity_type": "type",
+    "id": 734,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-09-11T00:49:53.363838Z",
+    "entity_type": "model",
+    "id": 735,
+    "model_id": 80,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-12-10T06:48:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 736,
+    "instance_id": 238,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-08-14T01:46:53.363838Z",
+    "entity_type": "platform",
+    "id": 737,
+    "ticket_id": 164,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-10-27T09:15:53.363838Z",
+    "entity_type": "model",
+    "id": 738,
+    "model_id": 27,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-10-05T11:06:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 739,
+    "instance_id": 100,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-02-17T04:58:53.363838Z",
+    "entity_type": "model",
+    "id": 740,
+    "model_id": 95,
+    "type": "models",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-01-28T16:24:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 741,
+    "instance_id": 373,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2025-11-13T21:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 742,
+    "instance_id": 296,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-16T04:49:53.363838Z",
+    "entity_type": "ticket",
+    "id": 743,
+    "ticket_id": 15,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-10-08T02:47:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 744,
+    "instance_id": 270,
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-12-18T02:49:53.363838Z",
+    "entity_type": "type",
+    "id": 745,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2025-11-25T01:03:53.363838Z",
+    "entity_type": "model",
+    "id": 746,
+    "model_id": 98,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-07T14:49:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 747,
+    "instance_id": 361,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-01-22T04:59:53.363838Z",
+    "entity_type": "model",
+    "id": 748,
+    "model_id": 34,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-04-04T07:09:53.363838Z",
+    "entity_type": "platform",
+    "id": 749,
+    "ticket_id": 115,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-01T07:05:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 750,
+    "instance_id": 58,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-01-22T17:12:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 751,
+    "instance_id": 364,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-08-04T09:19:53.363838Z",
+    "entity_type": "location",
+    "id": 752,
+    "type": "locations",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-12-16T16:52:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 753,
+    "instance_id": 222,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-04-11T11:22:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 754,
+    "instance_id": 160,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-09-30T03:55:53.363838Z",
+    "entity_type": "location",
+    "id": 755,
+    "type": "locations",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-09-01T09:40:53.363838Z",
+    "entity_type": "type",
+    "id": 756,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-09-19T02:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 757,
+    "instance_id": 118,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-09-09T22:21:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 758,
+    "instance_id": 170,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 5
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-05-27T01:11:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 759,
+    "instance_id": 28,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-08-07T11:25:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 760,
+    "instance_id": 36,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2026-02-15T03:18:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 761,
+    "instance_id": 55,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-07-12T16:37:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 762,
+    "instance_id": 87,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2025-12-27T12:26:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 763,
+    "instance_id": 173,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-04-17T07:17:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 764,
+    "instance_id": 61,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-08-28T18:31:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 765,
+    "instance_id": 69,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2025-09-22T14:24:53.363838Z",
+    "entity_type": "platform",
+    "id": 766,
+    "ticket_id": 230,
+    "type": "documents",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-04-02T09:59:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 767,
+    "instance_id": 346,
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-11-28T18:50:53.363838Z",
+    "entity_type": "platform",
+    "id": 768,
+    "type": "documents",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-03-24T03:42:53.363838Z",
+    "entity_type": "model",
+    "id": 769,
+    "model_id": 88,
+    "type": "models",
+    "user_id": 2
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-03-22T09:27:53.363838Z",
+    "entity_type": "platform",
+    "id": 770,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-01-22T08:37:53.363838Z",
+    "entity_type": "type",
+    "id": 771,
+    "type": "types",
+    "user_id": 3
+  },
+  {
+    "activity": "type_create",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-07-31T19:00:53.363838Z",
+    "entity_type": "type",
+    "id": 772,
+    "type": "types",
+    "user_id": 4
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2026-04-28T21:08:53.363838Z",
+    "entity_type": "ticket",
+    "id": 773,
+    "ticket_id": 189,
+    "type": "documents",
+    "user_id": 5
+  },
+  {
+    "activity": "document_attach",
+    "comment": "",
+    "created_at": "2025-10-05T18:11:53.363838Z",
+    "entity_type": "ticket",
+    "id": 774,
+    "type": "documents",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-11-20T14:13:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 775,
+    "instance_id": 121,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2026-01-30T21:48:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 776,
+    "instance_id": 79,
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-12-13T18:47:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 777,
+    "instance_id": 298,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2026-02-01T04:13:53.363838Z",
+    "entity_type": "model",
+    "id": 778,
+    "model_id": 94,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2025-12-22T15:56:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 779,
+    "instance_id": 315,
+    "type": "equipment",
+    "user_id": 2
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-12-04T11:36:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 780,
+    "instance_id": 290,
+    "to_status": "written_off",
+    "type": "equipment",
+    "user_id": 1
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-09-20T07:24:53.363838Z",
+    "entity_type": "type",
+    "id": 781,
+    "type": "types",
+    "user_id": 6
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2026-01-13T13:19:53.363838Z",
+    "entity_type": "location",
+    "id": 782,
+    "type": "locations",
+    "user_id": 5
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2025-08-05T14:35:53.363838Z",
+    "entity_type": "type",
+    "id": 783,
+    "type": "types",
+    "user_id": 2
+  },
+  {
+    "activity": "model_update",
+    "comment": "Статус изменён после диагностики.",
+    "created_at": "2025-09-04T09:54:53.363838Z",
+    "entity_type": "model",
+    "id": 784,
+    "model_id": 72,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2026-03-03T06:27:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 785,
+    "instance_id": 127,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "type_create",
+    "comment": "",
+    "created_at": "2026-05-27T01:11:53.363838Z",
+    "entity_type": "type",
+    "id": 786,
+    "type": "types",
+    "user_id": 1
+  },
+  {
+    "activity": "location_create",
+    "comment": "",
+    "created_at": "2025-07-05T04:37:53.363838Z",
+    "entity_type": "location",
+    "id": 787,
+    "type": "locations",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-10-19T03:11:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 788,
+    "instance_id": 27,
+    "type": "equipment",
+    "user_id": 3
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "",
+    "created_at": "2025-07-04T05:42:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 789,
+    "instance_id": 17,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_update",
+    "comment": "",
+    "created_at": "2026-01-22T12:42:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 790,
+    "instance_id": 51,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-09-26T19:37:53.363838Z",
+    "entity_type": "model",
+    "id": 791,
+    "model_id": 30,
+    "type": "models",
+    "user_id": 6
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2026-02-23T01:34:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 792,
+    "instance_id": 60,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 4
+  },
+  {
+    "activity": "model_create",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-11-07T13:03:53.363838Z",
+    "entity_type": "model",
+    "id": 793,
+    "model_id": 96,
+    "type": "models",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_status_change",
+    "comment": "",
+    "created_at": "2025-09-01T12:52:53.363838Z",
+    "entity_type": "equipment_instance",
+    "from_status": "active",
+    "id": 794,
+    "instance_id": 112,
+    "to_status": "broken",
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_location_change",
+    "comment": "",
+    "created_at": "2026-04-09T11:02:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 795,
+    "instance_id": 73,
+    "type": "equipment",
+    "user_id": 7
+  },
+  {
+    "activity": "equipment_create",
+    "comment": "Создана категория при реорганизации склада.",
+    "created_at": "2025-07-01T15:03:53.363838Z",
+    "entity_type": "equipment_instance",
+    "id": 796,
+    "instance_id": 292,
+    "type": "equipment",
+    "user_id": 6
+  },
+  {
+    "activity": "model_create",
+    "comment": "",
+    "created_at": "2025-12-10T19:12:53.363838Z",
+    "entity_type": "model",
+    "id": 797,
+    "model_id": 11,
+    "type": "models",
+    "user_id": 3
+  },
+  {
+    "activity": "model_update",
+    "comment": "",
+    "created_at": "2026-02-28T13:03:53.363838Z",
+    "entity_type": "model",
+    "id": 798,
+    "model_id": 46,
+    "type": "models",
+    "user_id": 1
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Обновлены паспортные данные модели.",
+    "created_at": "2025-12-04T18:24:53.363838Z",
+    "entity_type": "platform",
+    "id": 799,
+    "type": "documents",
+    "user_id": 6
+  },
+  {
+    "activity": "document_attach",
+    "comment": "Перенос из ауд. 108 в 110.",
+    "created_at": "2026-04-27T17:51:53.363838Z",
+    "entity_type": "platform",
+    "id": 800,
+    "ticket_id": 160,
+    "type": "documents",
+    "user_id": 7
+  }
+]
