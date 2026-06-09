@@ -1,4 +1,4 @@
-import type { MeResponse } from '../../shared/api/auth'
+import type { MeResponse, UserRole } from '../../shared/api/auth'
 import type { EquipmentInstance, EquipmentModel } from '../../shared/api/equipment'
 import type { PlatformDocument } from '../../shared/api/documents'
 import type { Ticket, TicketItem } from '../../shared/api/tickets'
@@ -102,10 +102,11 @@ export function filterTicketsForList(
   return list.map((t) => enrichTicket(db, t))
 }
 
-export function userPublic(u: { id: number; username: string; email: string; role: string; img?: string; img_url?: string; is_active?: boolean }) {
+export function userPublic(
+  u: { id: number; username: string; email: string; role: UserRole; img?: string; img_url?: string; is_active?: boolean },
+): MeResponse {
   const { img_url, ...rest } = u
-  const hydrated = hydrateImg({ ...rest, img: u.img ?? '', img_url })
-  return hydrated
+  return hydrateImg({ ...rest, img: u.img ?? '', img_url }) as MeResponse
 }
 
 export function resolveImgUrl(img?: string) {

@@ -10,10 +10,11 @@ import {
   enrichTicket,
   filterTicketsForList,
   ticketVisibleTo,
+  userPublic,
 } from '../demoService/helpers'
 import { hydrateImgList } from '../hydrate'
 import { ServiceError } from '../demoService/errors'
-import { currentMe, getDb, listUsers, loginByCredentials, logout, patchMe, setDb } from '../mockDb'
+import { currentMe, getDb, loginByCredentials, logout, patchMe, setDb } from '../mockDb'
 
 function json(data: unknown, init?: ResponseInit) {
   return HttpResponse.json(data as never, init)
@@ -67,7 +68,7 @@ export const routeHandlers = [
   http.get('/api/users/me', () => {
     const me = currentMe()
     if (!me) return json(fail('Войдите в систему'), { status: 401 })
-    return json(ok(me))
+    return json(ok(userPublic(me)))
   }),
 
   http.patch('/api/users/me', async ({ request }) => {
@@ -85,13 +86,14 @@ export const routeHandlers = [
     })
 
     if (!updated) return json(fail('Пользователь не найден'), { status: 404 })
-    return json(ok(updated))
+    return json(ok(userPublic(updated)))
   }),
 
   http.get('/api/users', () => {
     const auth = requireAuth()
     if (!auth.ok) return auth.response
-    return json(ok(listUsers()))
+    const db = getDb()
+    return json(ok(db.users.map(({ password: _pw, ...u }) => userPublic(u))))
   }),
 
   // --- Types ---

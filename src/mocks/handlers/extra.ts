@@ -1,5 +1,6 @@
 import { http } from '../mswHttp'
 import { fail, ok } from '../httpEnvelope'
+import { userRoleIcon } from '../../shared/lib/userRoleIcon'
 import { enrichDocument, enrichDocuments, enrichInstance, userPublic } from '../demoService/helpers'
 import { nextId, nowIso, parseNumber, randomQrToken } from '../demoService/utils'
 import { getDb, setDb } from '../mockDb'
@@ -23,13 +24,14 @@ export const extraHandlers = [
       return json(fail('Некорректные данные. Проверьте введённые поля'), { status: 400 })
     }
     const id = nextId(db.users)
+    const role = (body.role ?? 'user') as import('../../shared/api/auth').UserRole
     const user = {
       id,
       username: body.username.trim(),
       email: body.email.trim(),
       password: body.password,
-      role: (body.role ?? 'user') as import('../../shared/api/auth').UserRole,
-      img: '',
+      role,
+      img: userRoleIcon(role),
       comment: '',
       is_active: body.is_active ?? true,
       created_at: nowIso(),
@@ -61,11 +63,13 @@ export const extraHandlers = [
     if (idx < 0) return json(fail('Данные не найдены'), { status: 404 })
     const body = (await request.json().catch(() => null)) as Record<string, unknown> | null
     const cur = db.users[idx]
+    const nextRole = typeof body?.role === 'string' ? (body.role as typeof cur.role) : cur.role
     const updated = {
       ...cur,
       username: typeof body?.username === 'string' ? body.username : cur.username,
       email: typeof body?.email === 'string' ? body.email : cur.email,
-      role: typeof body?.role === 'string' ? (body.role as typeof cur.role) : cur.role,
+      role: nextRole,
+      img: nextRole !== cur.role ? userRoleIcon(nextRole) : cur.img,
       is_active: typeof body?.is_active === 'boolean' ? body.is_active : cur.is_active,
       updated_at: nowIso(),
     }

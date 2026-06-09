@@ -10,7 +10,9 @@ let inflightMe: Promise<MeResponse | null> | null = null
 async function demoMeFallback(): Promise<MeResponse | null> {
   if (!isDemoBuild()) return null
   const { currentMe } = await import('../../../mocks/mockDb')
-  return currentMe()
+  const { userPublic } = await import('../../../mocks/demoService/helpers')
+  const me = currentMe()
+  return me ? userPublic(me) : null
 }
 
 async function loadMe(): Promise<MeResponse | null> {
