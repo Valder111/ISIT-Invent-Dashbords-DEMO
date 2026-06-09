@@ -1,18 +1,27 @@
 import { useEffect, useRef } from 'react'
 import * as echarts from 'echarts'
 import type { EChartsOption } from 'echarts'
+import { useChartLayout } from '../../shared/lib/useChartLayout'
+import { responsiveChartHeight } from './chartResponsive'
 
 export type EChartClickHandler = (params: { name?: string; value?: unknown; seriesName?: string }) => void
 
 export function EChart({
   option,
   height = 380,
+  rowCount,
   onClick,
 }: {
   option: EChartsOption
   height?: number
+  rowCount?: number
   onClick?: EChartClickHandler
 }) {
+  const layout = useChartLayout()
+  const resolvedHeight = responsiveChartHeight(layout, height, {
+    perRow: layout === 'mobile' ? 36 : 32,
+    rows: rowCount,
+  })
   const containerRef = useRef<HTMLDivElement>(null)
   const chartRef = useRef<echarts.ECharts | null>(null)
   const clickRef = useRef<EChartClickHandler | undefined>(onClick)
@@ -43,5 +52,5 @@ export function EChart({
     chartRef.current?.setOption(option, true)
   }, [option])
 
-  return <div ref={containerRef} style={{ width: '100%', height }} />
+  return <div ref={containerRef} className="echart-container" style={{ width: '100%', height: resolvedHeight }} />
 }

@@ -1,8 +1,15 @@
 import { useMemo } from 'react'
 import type { EChartsOption } from 'echarts'
 import { analyticsApi, type AnalyticsFilters } from '../../shared/api/analytics'
+import { useChartLayout } from '../../shared/lib/useChartLayout'
 import { EChart } from './EChart'
 import { useAnalytics } from './useAnalytics'
+import {
+  responsiveCategoryAxis,
+  responsiveGrid,
+  responsiveLegend,
+  responsivePieSeries,
+} from './chartResponsive'
 import {
   CHART_PALETTE,
   STATUS_COLORS,
@@ -51,31 +58,27 @@ function ChartCard({
   )
 }
 
-const BASE_GRID = { left: 8, right: 16, top: 16, bottom: 56, containLabel: true }
-
 export function StatusView({ filters }: ViewProps) {
+  const layout = useChartLayout()
   const { data, loading, error } = useAnalytics(() => analyticsApi.equipmentByStatus(filters), [filters])
   const rows = useMemo(() => data ?? [], [data])
   const option = useMemo<EChartsOption>(
     () => ({
       tooltip: { trigger: 'item', formatter: '{b}: {c} ({d}%)' },
-      legend: { bottom: 0 },
+      legend: responsiveLegend(layout),
       series: [
-        {
-          type: 'pie',
-          radius: ['45%', '72%'],
-          avoidLabelOverlap: true,
-          itemStyle: { borderRadius: 6, borderColor: '#fff', borderWidth: 2 },
-          label: { show: true, formatter: '{b}\n{c}' },
-          data: rows.map((r) => ({
+        responsivePieSeries(
+          layout,
+          rows.map((r) => ({
             name: statusLabel(r.status),
             value: r.count,
             itemStyle: { color: STATUS_COLORS[r.status] },
           })),
-        },
+          { inner: '45%', outer: '72%' },
+        ),
       ],
     }),
-    [rows],
+    [rows, layout],
   )
   return (
     <ChartCard
@@ -91,6 +94,7 @@ export function StatusView({ filters }: ViewProps) {
 }
 
 export function CategoryStatusView({ filters, onSelectCategoryName }: ViewProps) {
+  const layout = useChartLayout()
   const { data, loading, error } = useAnalytics(
     () => analyticsApi.equipmentByCategoryStatus(filters),
     [filters],
@@ -103,9 +107,9 @@ export function CategoryStatusView({ filters, onSelectCategoryName }: ViewProps)
     for (const r of rows) lookup.set(`${r.category}|${r.status}`, r.count)
     return {
       tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
-      legend: { bottom: 0 },
-      grid: BASE_GRID,
-      xAxis: { type: 'category', data: categories, axisLabel: { rotate: 35, interval: 0 } },
+      legend: responsiveLegend(layout),
+      grid: responsiveGrid(layout, layout === 'mobile' ? 80 : 56),
+      xAxis: responsiveCategoryAxis(layout, categories),
       yAxis: { type: 'value' },
       series: present.map((s) => ({
         name: statusLabel(s),
@@ -116,7 +120,7 @@ export function CategoryStatusView({ filters, onSelectCategoryName }: ViewProps)
         data: categories.map((c) => lookup.get(`${c}|${s}`) ?? 0),
       })),
     }
-  }, [rows])
+  }, [rows, layout])
   return (
     <ChartCard
       title="Категории × статусы"
@@ -143,29 +147,37 @@ function HorizontalBarView({
   loader: () => Promise<{ label: string; count: number }[]>
   filters: AnalyticsFilters
 }) {
+  const layout = useChartLayout()
   const { data, loading, error } = useAnalytics(loader, [filters])
   const rows = useMemo(() => data ?? [], [data])
+  const sorted = useMemo(() => [...rows].sort((a, b) => a.count - b.count), [rows])
   const option = useMemo<EChartsOption>(() => {
-    const sorted = [...rows].sort((a, b) => a.count - b.count)
+    const compact = layout !== 'desktop'
     return {
       tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
-      grid: { left: 8, right: 36, top: 16, bottom: 16, containLabel: true },
+      grid: responsiveGrid(layout, 16),
       xAxis: { type: 'value' },
-      yAxis: { type: 'category', data: sorted.map((r) => r.label) },
+      yAxis: {
+        type: 'category',
+        data: sorted.map((r) => r.label),
+        axisLabel: compact
+          ? { fontSize: 11, width: layout === 'mobile' ? 72 : 96, overflow: 'truncate' }
+          : undefined,
+      },
       series: [
         {
           type: 'bar',
           color,
           data: sorted.map((r) => r.count),
-          label: { show: true, position: 'right' },
+          label: { show: !compact, position: 'right', fontSize: 11 },
           itemStyle: { borderRadius: [0, 4, 4, 0] },
         },
       ],
     }
-  }, [rows, color])
+  }, [sorted, color, layout])
   return (
     <ChartCard title={title} description={description} loading={loading} error={error} empty={rows.length === 0}>
-      <EChart option={option} height={460} />
+      <EChart option={option} height={460} rowCount={sorted.length} />
     </ChartCard>
   )
 }
@@ -195,6 +207,7 @@ export function ConsumablesView({ filters }: ViewProps) {
 }
 
 export function TicketsView({ filters }: ViewProps) {
+  const layout = useChartLayout()
   const { data, loading, error } = useAnalytics(() => analyticsApi.ticketsTimeseries(filters), [filters])
   const rows = useMemo(() => data ?? [], [data])
   const option = useMemo<EChartsOption>(() => {
@@ -202,12 +215,19 @@ export function TicketsView({ filters }: ViewProps) {
     const present = TICKET_STATUS_ORDER.filter((s) => rows.some((r) => r.status === s))
     const lookup = new Map<string, number>()
     for (const r of rows) lookup.set(`${r.month}|${r.status}`, r.count)
+    const mobile = layout === 'mobile'
     return {
       tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
-      legend: { bottom: 0 },
-      grid: { left: 8, right: 16, top: 16, bottom: 72, containLabel: true },
-      dataZoom: [{ type: 'slider', bottom: 36, height: 16 }],
-      xAxis: { type: 'category', data: months },
+      legend: responsiveLegend(layout),
+      grid: responsiveGrid(layout, mobile ? 64 : 72),
+      dataZoom: mobile
+        ? [{ type: 'inside' }]
+        : [{ type: 'slider', bottom: 36, height: 16 }],
+      xAxis: {
+        type: 'category',
+        data: months,
+        axisLabel: mobile ? { rotate: 45, fontSize: 10, interval: 0 } : undefined,
+      },
       yAxis: { type: 'value' },
       series: present.map((s) => ({
         name: TICKET_STATUS_LABELS[s] ?? s,
@@ -218,7 +238,7 @@ export function TicketsView({ filters }: ViewProps) {
         data: months.map((m) => lookup.get(`${m}|${s}`) ?? 0),
       })),
     }
-  }, [rows])
+  }, [rows, layout])
   return (
     <ChartCard
       title="Динамика заявок по месяцам"
@@ -233,27 +253,26 @@ export function TicketsView({ filters }: ViewProps) {
 }
 
 export function TicketTypesView({ filters }: ViewProps) {
+  const layout = useChartLayout()
   const { data, loading, error } = useAnalytics(() => analyticsApi.ticketsByType(filters), [filters])
   const rows = useMemo(() => data ?? [], [data])
   const option = useMemo<EChartsOption>(
     () => ({
       tooltip: { trigger: 'item', formatter: '{b}: {c} ({d}%)' },
-      legend: { bottom: 0 },
+      legend: responsiveLegend(layout),
       series: [
-        {
-          type: 'pie',
-          radius: ['40%', '70%'],
-          roseType: 'radius',
-          itemStyle: { borderRadius: 6, borderColor: '#fff', borderWidth: 2 },
-          data: rows.map((r, i) => ({
+        responsivePieSeries(
+          layout,
+          rows.map((r, i) => ({
             name: ticketTypeLabel(r.label),
             value: r.count,
             itemStyle: { color: CHART_PALETTE[i % CHART_PALETTE.length] },
           })),
-        },
+          { rose: true },
+        ),
       ],
     }),
-    [rows],
+    [rows, layout],
   )
   return (
     <ChartCard
@@ -269,22 +288,32 @@ export function TicketTypesView({ filters }: ViewProps) {
 }
 
 export function LaborantsView({ filters }: ViewProps) {
+  const layout = useChartLayout()
   const { data, loading, error } = useAnalytics(() => analyticsApi.laborantLoad(filters), [filters])
   const rows = useMemo(() => data?.data ?? [], [data])
   const option = useMemo<EChartsOption>(() => {
     const names = rows.map((r) => r.username)
+    const mobile = layout === 'mobile'
     return {
       tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
-      legend: { bottom: 0 },
-      grid: { left: 8, right: 16, top: 16, bottom: 64, containLabel: true },
-      xAxis: { type: 'category', data: names, axisLabel: { rotate: 30, interval: 0 } },
+      legend: responsiveLegend(layout),
+      grid: responsiveGrid(layout, mobile ? 80 : 64),
+      xAxis: {
+        type: 'category',
+        data: names,
+        axisLabel: mobile
+          ? { rotate: 45, interval: 0, fontSize: 10, width: 48, overflow: 'truncate' }
+          : layout === 'tablet'
+            ? { rotate: 35, interval: 0, fontSize: 11 }
+            : { rotate: 30, interval: 0 },
+      },
       yAxis: { type: 'value' },
       series: [
         { name: 'Выполнено', type: 'bar', color: '#2e9e6b', data: rows.map((r) => r.done_count) },
         { name: 'Отменено', type: 'bar', color: '#d2544b', data: rows.map((r) => r.cancelled_count) },
       ],
     }
-  }, [rows])
+  }, [rows, layout])
   return (
     <ChartCard
       title="Нагрузка лаборантов"
@@ -299,12 +328,15 @@ export function LaborantsView({ filters }: ViewProps) {
 }
 
 export function ActivityView({ filters }: ViewProps) {
+  const layout = useChartLayout()
   const { data, loading, error } = useAnalytics(() => analyticsApi.activityHeatmap(filters), [filters])
   const rows = useMemo(() => data ?? [], [data])
   const option = useMemo<EChartsOption>(() => {
     const hours = Array.from({ length: 24 }, (_, h) => `${h}:00`)
     const cells = rows.map((c) => [c.hour, c.dow, c.count])
     const max = rows.reduce((m, c) => Math.max(m, c.count), 1)
+    const mobile = layout === 'mobile'
+    const tablet = layout === 'tablet'
     return {
       tooltip: {
         position: 'top',
@@ -313,18 +345,45 @@ export function ActivityView({ filters }: ViewProps) {
           return `${WEEKDAY_LABELS[d[1]]}, ${d[0]}:00 — ${d[2]} событий`
         },
       },
-      grid: { height: '62%', top: '6%', left: 8, right: 8, containLabel: true },
-      xAxis: { type: 'category', data: hours, splitArea: { show: true } },
-      yAxis: { type: 'category', data: WEEKDAY_LABELS, splitArea: { show: true } },
-      visualMap: {
-        min: 0,
-        max,
-        calculable: true,
-        orient: 'horizontal',
-        left: 'center',
-        bottom: 4,
-        inRange: { color: ['#eef3f8', '#7fb0d8', '#3b82c4', '#1f3b5c'] },
+      grid: mobile
+        ? { height: '58%', top: '4%', left: 4, right: mobile ? 52 : 8, bottom: 8, containLabel: true }
+        : tablet
+          ? { height: '60%', top: '5%', left: 6, right: 12, containLabel: true }
+          : { height: '62%', top: '6%', left: 8, right: 8, containLabel: true },
+      xAxis: {
+        type: 'category',
+        data: hours,
+        splitArea: { show: true },
+        axisLabel: mobile ? { interval: 2, fontSize: 9 } : tablet ? { interval: 1, fontSize: 10 } : undefined,
       },
+      yAxis: {
+        type: 'category',
+        data: WEEKDAY_LABELS,
+        splitArea: { show: true },
+        axisLabel: mobile ? { fontSize: 10 } : undefined,
+      },
+      visualMap: mobile
+        ? {
+            min: 0,
+            max,
+            calculable: true,
+            orient: 'vertical',
+            right: 4,
+            top: 'center',
+            itemWidth: 10,
+            itemHeight: 60,
+            textStyle: { fontSize: 10 },
+            inRange: { color: ['#eef3f8', '#7fb0d8', '#3b82c4', '#1f3b5c'] },
+          }
+        : {
+            min: 0,
+            max,
+            calculable: true,
+            orient: 'horizontal',
+            left: 'center',
+            bottom: 4,
+            inRange: { color: ['#eef3f8', '#7fb0d8', '#3b82c4', '#1f3b5c'] },
+          },
       series: [
         {
           type: 'heatmap',
@@ -333,7 +392,7 @@ export function ActivityView({ filters }: ViewProps) {
         },
       ],
     }
-  }, [rows])
+  }, [rows, layout])
   return (
     <ChartCard
       title="Активность по дням недели и часам"
@@ -348,18 +407,24 @@ export function ActivityView({ filters }: ViewProps) {
 }
 
 export function WriteoffsView({ filters }: ViewProps) {
+  const layout = useChartLayout()
   const { data, loading, error } = useAnalytics(() => analyticsApi.writeoffsTimeseries(filters), [filters])
   const rows = useMemo(() => data ?? [], [data])
   const option = useMemo<EChartsOption>(() => {
     const months = rows.map((r) => r.month)
+    const compact = layout !== 'desktop'
     return {
       tooltip: { trigger: 'axis', axisPointer: { type: 'cross' } },
-      legend: { bottom: 0 },
-      grid: { left: 8, right: 24, top: 16, bottom: 48, containLabel: true },
-      xAxis: { type: 'category', data: months },
+      legend: responsiveLegend(layout),
+      grid: responsiveGrid(layout, compact ? 72 : 48),
+      xAxis: {
+        type: 'category',
+        data: months,
+        axisLabel: layout === 'mobile' ? { rotate: 45, fontSize: 10, interval: 0 } : undefined,
+      },
       yAxis: [
-        { type: 'value', name: 'Актов' },
-        { type: 'value', name: 'Единиц' },
+        { type: 'value', name: compact ? '' : 'Актов', nameTextStyle: { fontSize: 11 } },
+        { type: 'value', name: compact ? '' : 'Единиц', nameTextStyle: { fontSize: 11 } },
       ],
       series: [
         { name: 'Актов списания', type: 'bar', color: '#c4724b', data: rows.map((r) => r.count) },
@@ -373,7 +438,7 @@ export function WriteoffsView({ filters }: ViewProps) {
         },
       ],
     }
-  }, [rows])
+  }, [rows, layout])
   return (
     <ChartCard
       title="Динамика списаний"

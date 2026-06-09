@@ -88,3 +88,93 @@
 .analytics-chart__desc {
   margin: 0 0 12px;
 }
+
+.analytics-chart .panel__body {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.echart-container {
+  width: 100%;
+  min-width: 0;
+}
+
+@media (max-width: 1023px) {
+  .analytics-page__lead {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .analytics-tabs__btn {
+    padding: 6px 12px;
+    font-size: 13px;
+  }
+
+  .analytics-chart .panel__title {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  .analytics-page {
+    gap: 12px;
+  }
+
+  .analytics-tabs {
+    gap: 6px;
+  }
+
+  .analytics-tabs__btn {
+    padding: 6px 11px;
+    font-size: 12px;
+  }
+
+  .analytics-filters__body {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .analytics-filters__field {
+    min-width: 0;
+    width: 100%;
+  }
+
+  .analytics-filters__actions {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .analytics-filters__actions .btn {
+    flex: 1;
+  }
+
+  .analytics-kpi .panel__body {
+    padding: 12px;
+  }
+
+  .analytics-kpi .stat-card {
+    padding: 10px 12px;
+  }
+
+  .analytics-kpi .stat-card__value {
+    font-size: 18px;
+  }
+
+  .analytics-kpi .stat-card__label {
+    font-size: 10px;
+    line-height: 1.3;
+  }
+
+  .analytics-chart .panel__header {
+    padding: 12px;
+  }
+
+  .analytics-chart .panel__body {
+    padding: 10px 8px 12px;
+  }
+
+  .analytics-chart__desc {
+    font-size: 13px;
+    line-height: 1.45;
+  }
+}
