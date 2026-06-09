@@ -6,9 +6,14 @@ type WithImg = { img?: string; img_url?: string }
 type WithQr = { qr_img?: string; qr_img_url?: string }
 type WithUrl = { object_key?: string; url?: string }
 
+function staticAssetUrl(path: string): string {
+  const base = (import.meta.env.BASE_URL ?? '/').replace(/\/+$/, '')
+  return `${base}${path}`
+}
+
 export function presignIfKey(key: string | undefined | null): string | undefined {
   if (!key) return undefined
-  if (key.startsWith('/static/')) return key
+  if (key.startsWith('/static/')) return staticAssetUrl(key)
   if (isObjectKey(key)) {
     if (isDemoBuild()) return demoStaticUrlForKey(key)
     return presignUrl(key)

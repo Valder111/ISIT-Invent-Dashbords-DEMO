@@ -109,5 +109,5 @@ export function userPublic(u: { id: number; username: string; email: string; rol
 }
 
 export function resolveImgUrl(img?: string) {
-  return presignIfKey(img) ?? (img?.startsWith('/static/') ? img : undefined)
+  return presignIfKey(img)
 }

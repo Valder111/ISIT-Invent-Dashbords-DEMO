@@ -4,7 +4,7 @@
     "created_at": "2024-10-12T09:13:53.363838Z",
     "description": "Портативные компьютеры для преподавателей, ассистентов и мобильных занятий в аудиториях.",
     "id": 1,
-    "img": "",
+    "img": "/static/images/category-icons/category-01-noutbuki.svg",
     "is_active": true,
     "name": "Ноутбуки",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -14,7 +14,7 @@
     "created_at": "2024-10-12T09:13:53.363838Z",
     "description": "Стационарные рабочие станции в компьютерных классах и кабинетах кафедры.",
     "id": 2,
-    "img": "",
+    "img": "/static/images/category-icons/category-02-sistemnye-bloki.svg",
     "is_active": true,
     "name": "Системные блоки",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -24,7 +24,7 @@
     "created_at": "2024-10-22T09:13:53.363838Z",
     "description": "LCD/LED-панели для подключения к ПК и ноутбукам, диагональ 21–27\".",
     "id": 3,
-    "img": "",
+    "img": "/static/images/category-icons/category-03-monitory.svg",
     "is_active": true,
     "name": "Мониторы",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -34,7 +34,7 @@
     "created_at": "2024-10-22T09:13:53.363838Z",
     "description": "Лазерные и струйные устройства печати, сканирования и копирования.",
     "id": 4,
-    "img": "",
+    "img": "/static/images/category-icons/category-04-printery-mfu.svg",
     "is_active": true,
     "name": "Принтеры и МФУ",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -44,7 +44,7 @@
     "created_at": "2024-11-01T09:13:53.363838Z",
     "description": "Коммутаторы, маршрутизаторы, точки доступа сегмента кафедры ИСиТ.",
     "id": 5,
-    "img": "",
+    "img": "/static/images/category-icons/category-05-setevoe-oborudovanie.svg",
     "is_active": true,
     "name": "Сетевое оборудование",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -54,7 +54,7 @@
     "created_at": "2024-11-01T09:13:53.363838Z",
     "description": "Мультимедийные проекторы для лекций и защит проектов.",
     "id": 6,
-    "img": "",
+    "img": "/static/images/category-icons/category-06-proektory.svg",
     "is_active": true,
     "name": "Проекторы",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -64,7 +64,7 @@
     "created_at": "2024-11-11T09:13:53.363838Z",
     "description": "Физические и стоечные серверы учебного кластера и файлового хранилища.",
     "id": 7,
-    "img": "",
+    "img": "/static/images/category-icons/category-07-servery.svg",
     "is_active": true,
     "name": "Серверы",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -74,7 +74,7 @@
     "created_at": "2024-11-11T09:13:53.363838Z",
     "description": "ИБП для рабочих мест, стоек и критичного оборудования.",
     "id": 8,
-    "img": "",
+    "img": "/static/images/category-icons/category-08-ibp.svg",
     "is_active": true,
     "name": "Источники питания (ИБП)",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -84,7 +84,7 @@
     "created_at": "2024-11-21T09:13:53.363838Z",
     "description": "Клавиатуры, мыши, гарнитуры, веб-камеры общего назначения.",
     "id": 9,
-    "img": "",
+    "img": "/static/images/category-icons/category-09-periferiya.svg",
     "is_active": true,
     "name": "Периферия",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -94,7 +94,7 @@
     "created_at": "2024-12-01T09:13:53.363838Z",
     "description": "Планшеты для демонстраций, опросов и полевых занятий.",
     "id": 10,
-    "img": "",
+    "img": "/static/images/category-icons/category-10-planshety.svg",
     "is_active": true,
     "name": "Планшеты",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -104,7 +104,7 @@
     "created_at": "2024-12-11T09:13:53.363838Z",
     "description": "Планшетные и протяжные сканеры для архива документов.",
     "id": 11,
-    "img": "",
+    "img": "/static/images/category-icons/category-11-skanery.svg",
     "is_active": true,
     "name": "Сканеры",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -114,7 +114,7 @@
     "created_at": "2024-12-21T09:13:53.363838Z",
     "description": "Видеокамеры для конференций, записи лекций, видеолаборатории.",
     "id": 12,
-    "img": "",
+    "img": "/static/images/category-icons/category-12-kamery.svg",
     "is_active": true,
     "name": "Камеры и веб-камеры",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -124,7 +124,7 @@
     "created_at": "2024-12-31T09:13:53.363838Z",
     "description": "Колонки, микрофоны, аудиоинтерфейсы для аудиторий.",
     "id": 13,
-    "img": "",
+    "img": "/static/images/category-icons/category-13-audiotehnika.svg",
     "is_active": true,
     "name": "Аудиотехника",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -134,7 +134,7 @@
     "created_at": "2025-01-10T09:13:53.363838Z",
     "description": "Интерактивные панели и комплекты стилусов для аудиторий 108–115.",
     "id": 14,
-    "img": "",
+    "img": "/static/images/category-icons/category-14-interaktivnye-doski.svg",
     "is_active": true,
     "name": "Интерактивные доски",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -144,7 +144,7 @@
     "created_at": "2025-01-20T09:13:53.363838Z",
     "description": "Учебные стенды по сетям, электронике и встраиваемым системам.",
     "id": 15,
-    "img": "",
+    "img": "/static/images/category-icons/category-15-laboratornye-stendy.svg",
     "is_active": true,
     "name": "Лабораторные стенды",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -154,7 +154,7 @@
     "created_at": "2025-01-30T09:13:53.363838Z",
     "description": "Осциллографы, мультиметры, генераторы сигналов лаборатории.",
     "id": 16,
-    "img": "",
+    "img": "/static/images/category-icons/category-16-izmeritelnye-pribory.svg",
     "is_active": true,
     "name": "Измерительные приборы",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -164,7 +164,7 @@
     "created_at": "2025-02-09T09:13:53.363838Z",
     "description": "Патч-корды, магистральные кабели, органайзеры, маркировка.",
     "id": 17,
-    "img": "",
+    "img": "/static/images/category-icons/category-17-kabeli.svg",
     "is_active": true,
     "name": "Кабели и коммутация",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -174,7 +174,7 @@
     "created_at": "2025-02-19T09:13:53.363838Z",
     "description": "Оригинальные и совместимые картриджи под парк принтеров кафедры.",
     "id": 18,
-    "img": "",
+    "img": "/static/images/category-icons/category-18-kartridzhi.svg",
     "is_active": true,
     "name": "Картриджи и тонеры",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -184,7 +184,7 @@
     "created_at": "2025-03-01T09:13:53.363838Z",
     "description": "USB-накопители, внешние HDD/SSD для резервного копирования.",
     "id": 19,
-    "img": "",
+    "img": "/static/images/category-icons/category-19-nositeli.svg",
     "is_active": true,
     "name": "Носители информации",
     "updated_at": "2026-06-04T09:13:53.363838Z"
@@ -194,7 +194,7 @@
     "created_at": "2025-03-11T09:13:53.363838Z",
     "description": "Бумага, расходники для печати, мелкая канцелярия лабораторий.",
     "id": 20,
-    "img": "",
+    "img": "/static/images/category-icons/category-20-kancelyariya.svg",
     "is_active": true,
     "name": "Канцелярия и расходники",
     "updated_at": "2026-06-04T09:13:53.363838Z"
